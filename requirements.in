@@ -1,0 +1,54 @@
+# List specific package requirements
+# To create full dependency requirements, compile with:
+#    pip-compile -v requirements.in
+# TODO: create requirements_dev.in/txt for dev environment specific reqs, eg ipython/jupyter/pytest/coverage
+
+awscli<=1.20.19  # reduce version to match linux release (1.20.20 doesnt exist)
+azure-cognitiveservices-vision-computervision~=0.5.0 # Necessary
+azure-common
+azure-storage-blob~=2.0 # Necessary
+azure-storage-common
+beautifulsoup4>=4.9.1
+boto3<=1.18.19  # reduce version to match awscli linux release
+cachetools
+coloredlogs
+connexion[swagger-ui]==2.9.0
+credstash
+django~=2.2.17
+djangorestframework==3.9.4
+elastic-apm[flask]
+fhirclient~=1.0.6 # Necessary
+fuzzywuzzy
+GitPython
+google-cloud-vision<2  # Necessary
+googleapis-common-protos
+ijson>=3.1.1, <4
+json2html
+lxml
+moto
+nltk~=3.4.5 # Necessary
+numpy==1.18.5  # matches biomed
+packaging
+pandas~=1.1.5  # pinned by nltk_download
+paramiko
+pdfminer.six
+pika
+psutil
+pydantic
+PyPDF2
+pytest
+python-jose[cryptography]
+pyRFC3339
+python-dateutil
+python-magic
+python-redis-lock~=3.6.0
+pyyaml==5.2   # should explicitly match feature-service
+recordclass>=0.13.2, <1
+redis~=3.5
+requests~=2.26.0
+semantic-version~=2.8.5  # work with versions
+slack_sdk
+
+# test libs
+WebTest
+fakeredis[lua]

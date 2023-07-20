@@ -1,0 +1,38 @@
+version: '3'
+
+services:
+  biomed:
+    build:
+      context: ../biomed
+      args:
+        IMAGE_FROM_TAG: stage
+    command: bin/docker-test-integration.sh
+    volumes:
+      - ../text2phenotype-samples:/text2phenotype-samples
+    networks:
+      text2phenotype-py:
+        aliases:
+          - biomed
+
+  text2phenotype-app:
+    build:
+      context: ../sands
+      args:
+        IMAGE_FROM_TAG: stage
+    command: bin/docker-test-integration.sh
+    volumes:
+      - ../text2phenotype-samples:/text2phenotype-samples
+    networks:
+      text2phenotype-py:
+        aliases:
+          - text2phenotype-app
+
+  # nlp:
+  #   image: "text2phenotype/nlp:dev"
+  #   networks:
+  #     text2phenotype-py:
+  #       aliases:
+  #         - nlp
+
+networks:
+  text2phenotype-py:

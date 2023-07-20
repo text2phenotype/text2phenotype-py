@@ -1,0 +1,17 @@
+{
+  "Cancer": [],
+  "VersionInfo": [
+    {
+      "product_id": null,
+      "product_version": "1.03",
+      "tags": [],
+      "active_branch": null,
+      "commit_id": null,
+      "docker_image": null,
+      "commit_date": null,
+      "model_versions": {
+        "cancer": "1.00"
+      }
+    }
+  ]
+}

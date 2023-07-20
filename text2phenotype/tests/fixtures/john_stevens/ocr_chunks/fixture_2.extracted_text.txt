@@ -1,0 +1,15 @@
+Page 3 of 3
+follow-up with Dr. X in one to two weeks.:
+New Patient Encounter
+(2017-07-19) Provider: Administrator Administrator
+Facility: ViSolve Clinic
+Reason: The patient is a 49-year-old man who was admitted to the hospital in respiratory distress, and had to be intubated
+shortly after admission to the emergency room. The patient's past history is notable for a history of coronary artery disease
+with prior myocardial infarctions in 1995 and 1999. The patient has recently been admitted to the hospital with pneumonia
+and respiratory failure. The patient has been smoking up until three to four months previously. On the day of admission,
+the patient had the sudden onset of severe dyspnea and called an ambulance. The patient denied any gradual increase in
+wheezing, any increase in cough, any increase in chest pain, any increase in sputum prior to the onset of his sudden
+dyspnea.
+Signature:
+http://demo.visolve.com/openemr/interface/patient_file/report/custom_report.php?p... 7/21/2017
+

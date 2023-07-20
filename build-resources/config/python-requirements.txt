@@ -1,0 +1,3 @@
+Jinja2>=0
+j2cli[yaml]>=0
+pyyaml>=0

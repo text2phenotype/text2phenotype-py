@@ -1,0 +1,22 @@
+# Enable integration tests
+MDL_TEST_INTEGRATION_TESTS_ENABLED: True
+
+# Default timeout
+MDL_TEST_DEFAULT_WAITING_TIMEOUT: 120
+
+# Enable colored logs
+MDL_COMN_HUMAN_READABLE_LOGS: True
+MDL_COMN_COLORED_LOGS: True
+
+# Text2phenotype API
+MDL_COMN_TEXT2PHENOTYPE_API_BASE: https://nlp-alpha.mdl-dev.in/
+MDL_COMN_TEXT2PHENOTYPE_API_SECRET_KEY: ''  # <-- Generate the Secret Key in the MIPS
+
+# Setup Corpus Job
+MDL_TEST_CORPUS_SOURCE_BUCKET: 'nlp-alpha-us-east-1'
+
+# "tina" is a pattern to reduce number of selected documents for the job
+MDL_TEST_CORPUS_SOURCE_DIRECTORY: 'corpus/samples/tina'
+
+# There will be created subdirectory with results named as current datetime
+MDL_TEST_CORPUS_DESTINATION_DIRECTORY: 'outbox/integration/'

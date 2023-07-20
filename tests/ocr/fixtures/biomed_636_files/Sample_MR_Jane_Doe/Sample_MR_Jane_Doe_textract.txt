@@ -1,0 +1,331 @@
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+08/30/02 11:00 AM 	EMERGENCY DEPARTMENT/ Dr. Scarlet, Bates No. 1 	Patient admitted to the ER at City Hospital with expressive aphasia & right facial droop. In no acute distress. Chief complaint: slurred speech & difficulty finding words. Temp 37 P 60 R 16 BP 178/80 Allergies: none known Past history: HTN (hypertension), treated with Lopressor Coronary artery disease (CAD), treated with Lipitor for high cholesterol & Ecotrin daily. Abdominal hysterectomy Physical exam: all within normal limits except the right facial droop with aphasia. IV is started EKG is done (unremarkable) Blood sugar is checked (ok) Neurology is called. 	It is important to do the CT scan of the brain immediately on patients with suspected stroke. It is important to know the cause of the stroke to administer the proper treatment. There are 2 types of stroke: 1. Ischemic which means a blockage. This is seen in people with coronary artery disease (CAD). This means that there are fatty deposits in the arteries and blood products form on the fat deposits, break off and lodge in the vessels of the brain causing obstruction. This is treated with fibrinolytic therapy (thin the blood to prevent more clots). Medications are given to accomplish this. 2. The other major cause of strokes is hemorrhage to the brain that can be caused by an aneurysm, a weakening of a vessel. This can break and cause bleeding and hemorrhage. Surgery would be required to correct this. 
+		CT scan of the brain is done. Labs are drawn including hematology & chemistry Transfer under the care of Dr. Mustard. 	Reference: Ref 1 American Heart Association / Acute Coronary Syndromes & Stroke 1994 
+08/30/02 11:30 AM 	RADIOLOGY / CT scan of the brain 	No acute abnormality. 	CT showed no sign of hemorrhagic stroke or blockage. 
+08/30/02 12:00 PM 	PROGRESS NOTES / Dr. Mustard 	68 year old white female admitted with expressive aphasia with right facial droop. Patient in no acute distress. History of HTN, CAD & a hysterectomy. On treatment for HTN & CAD. Also Ecotrin daily. Physical exam: unremarkable the right facial droop with aphasia. CT scan revealed no acute abnormality. Observe patient & start Ecotrin & Plavix. Plan in doctor's orders. 	Ecotrin & Plavix are blood thinners to prevent the formation of blood clots. The patient has been taking Ecotrin @ home. Labs were drawn showing normal platelets with a high MVP & normal Hgb & Hct. No coagulation (PT, PTT, INR) studies are ordered. Starting anticoagulant therapy without a baseline coagulation study. This high level indicates a need for more platelets, Ecotrin & Plavix have been started without basic coagulation studies, PT, PTT & INR. Reference: test 
+08/30/02 12:00 PM 	NURSING ASSESSMENT 	Admitted to room 212 A telemetry. Chief complaint: slurred speech, difficulty finding words. History of: HTN, CAD & abdominal hysterectomy. 	
+08/30/02 12:00 PM 	VITAL SIGNS 	T 36.6 P 56 R 16 BP 178/96. 	
+08/30/02 12:00 PM 	LABS/ Hematology 	platelets 174 (ref 140-450) ok MPV (mean platelet volume) 11.4 (ref 7.4- 	Platelets are ok Low platelets count interferes with the 
+10/21/2010
+Page 2 of 17
+Medical Record Review
+Jane Doe
+Date
+Location
+Chart Documentation
+Review Note/Reference
+		10.4) high Hgb 14.0 (ref 12-16) ok Hct 41.6 (ref 37-47) ok 	clotting mechanism, increasing the chance to bleed. With Ecotrin & Plavix is a concern for bleeding. MPV high When this value is High it measures the amount of large immature platelets are present. The normal bone marrow releases immature platelets to attempt to maintain a normal platelet count. The only medication that the patient was on the causes inhibition of platelets was the Ecotrin she was taking at home. Hgb & Hct show no signs of anemia. 
+08/30/02 12:15 PM 	PHYSICIAN'S ORDERS / Dr. Mustard 	Diagnoses: CVA (cerebral vascular accident) Condition: stable Medications: Lopressor 250 mg daily Lipitor 20mg daily Lab work: CBC with diff, BMP, fasting lipid panel, urinalysis in the AM. Guaiac stool testing Chest x-ray Ultrasound of the carotids Consult Dr. Plum (neurology) 	
+		Plavix 75mg every day Ecotrin 325mg every day 	
+		Soft diet IV keep open rate All other orders standard to the patients condition. 	
+08/30/02 02:00 PM 	VITAL SIGNS 	T 36.6 P 56 R 16 BP 178/97 	
+08/30/02 02:00 PM 	NEUROLOGICAL SCORE 	Neurological score: 15 	Neurological check is the Glasgow Coma Score. The Glasgow Coma Score is used to quantify the neurological changes following stroke and allows a uniform description of the patients condition. The best possible score is 15, the worst possible score is 3. A Glasgow Coma Score of 8 or less is consistent with the definition of coma. This is a good assessment tool to monitor the patients condition. Reference: Ref 2 The Internet Stroke Center / American Stroke Association / Glasgow coma score / 1974 
+08/30/02 04:00 PM 	VITAL SIGNS 	T 37 P 62 R 18 BP 167/96 	
+10/21/2010
+Page 3 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+08/30/02 04:00 PM 	NEUROLOGICAL SCORE 	Neurological score: 15 	Neurological score: good. 
+08/30/02 05:00 PM 	MEDICATION SHEET 	Aspirin (Ecotrin) 325mg & Plavix 75mg started. 	
+08/30/02 06:31 PM 	PROGRESS NOTES / Dr. Peacock / Primary care physician 	68 yr. old white female, previous hx of HTN for 30 yrs., CAD & abdominal hysterectomy. Is being treated with Lopressor & Lipitor for high cholesterol. Presented with expressive aphasia & mild facial droop. Family history of strokes, HTN & heart attacks. The patient is awake, oriented & in no distress. Impression: TIA (Transient Ischemic Attack) Neurological checks, continue Ecotrin & Plavix & check the labs. 	A transient ischemic attack (TIA) is a transient stroke that lasts only a few minutes. It occurs when the blood supply to part of the brain is briefly interrupted. TIA symptoms, which usually occur suddenly, are similar to those of stroke but do not last as long. Most symptoms of a TIA disappear within an hour, although they may persist for up to 24 hours. Symptoms can include: numbness or weakness in the face, arm, or leg, especially on one side of the body. Because there is no way to tell whether symptoms are from a TIA or an acute stroke, patients should assume that all stroke-like symptoms signal an emergency and should not wait to see if they go away. A prompt evaluation (within 60 minutes) is necessary to identify the cause of the TIA and determine appropriate therapy. Depending on a patient's medical history and the results of a medical examination, the doctor may recommend drug therapy or surgery to reduce the risk of stroke in people who have had a TIA. The use of antiplatelet agents, particularly aspirin, is a standard treatment for patients at risk for stroke. TIA's are often warning signs that a person is at risk for a more serious and debilitating stroke. 
+08/30/02 11:55 PM 	SUMMARY of Nurses Notes 	Patient oriented VS stable Chest clear Good urine output Appetite fair Good oral fluid intake IV keep open rate Abdomen soft, good bowel sounds Skin warm & dry Telemetry-normal sinus rhythm 	
+08/31/02 12:00 AM 	NURSES NOTES 	Patient stable. No change. 	
+08/31/02 12:00 AM 	NEUROLOGICAL SCORE 	Neurological score:15 	
+08/31/02 04:34 AM 	LABS / Lipid panel 	Cholesterol 206 high (ref. desirable less than 200; the lower the better) HDL "good" 39.3 low (ref. desirable greater than 40; the higher the better) Cholesterol/HDL ratio 5.2 (high risk >5.0) LDL "bad" 112 ok (ref. desirable less than 130; the lower the better) 	High cholesterol level 
+10/21/2010
+Page 4 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+		VLDL 55 high (ref. 0-40) (should be low) 	
+		Triglycerides 275 high (ref. desirable less than 130; the lower the better) 	
+08/31/02 04:34 AM 	LABS / Chemistry 	Within normal limits 	
+08/31/02 04:54 AM 	LABS / Hematology 	Platelet count 138 (ref 140-450) low MPV 11.8 (ref 7.4-10.4) high 	
+		Hgb 13.5 (ref 12-16) ok Hct 40.4 (ref 37-47) ok 	
+08/31/02 08:00 AM 	PROGRESS NOTES / Dr. Peacock 	Patient asymptomatic, need to check ultrasound & Neuro consult. OK to give Ecotrin & Plavix to anti- coagulate. 	
+08/31/02 08:00 AM 	NEUROLOGICAL SCORE 	Neurological score: 15 	
+08/31/02 08:00 AM 	VITAL SIGNS 	T 36 P 54 R 20 BP 164/87 	
+08/31/02 08:45 AM 	RADIOLOGY/Ultrasound of Carotids 	Plaque in the left internal carotid artery which is not significantly narrowing the lumen of the vessel. The exam was otherwise unremarkable. 	The carotid arteries are on each side of the neck. The carotid arteries deliver oxygen- rich blood from the heart to the head and brain. Blockage of the internal carotid artery can reduce blood supply to the brain, causing a stroke. There was some narrowing of the left carotid artery but the rest of the study was unremarkable, no blockage was seen. 
+08/31/02 10:00 AM 	MEDICATION SHEET 	Ecotrin & Plavix given x1 daily 	
+08/31/02 10:20 AM 	RADIOLOGY/Chest x-ray 	Normal findings. 	
+08/31/02 11:00 AM 	PHYSICIAN'S ORDERS / Dr. Peacock 	CBC with diff in am BMP in am Increase Lipitor to 30mg every day Discontinue IV 	
+08/31/02 11:00 AM 	PROGRESS NOTES / Dr. Peacock 	The patient has improved. Eating well, CBC & chemistries are fine. Lipid panel high, Lipitor increased, Ultrasound unremarkable. 	
+08/31/02 01:47 PM 	CONSULTATION / Dr. Plum / neurologist 	1. CT scan unremarkable 2. CBC with diff within normal limits. 3. Suggested to keep the patient's blood pressure under control & to stay on Ecotrin & Plavix. 	The CBC was not in normal limits. The CBC this AM had low platelets. MPV was high. Platelet count 138L (low), a low platelet count interferes with the clotting mechanism, increasing the chance to bleed. 
+08/31/02 04:00 PM 	VITAL SIGNS 	T 93.5 P 57 R 20 BP 160-/82 	
+08/31/02 05:45 PM 	LABS / Urinalysis 	Normal findings 	
+10/21/2010
+Page 5 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+08/31/02 11:55 PM 	SUMMARY of NURSES NOTES 	Doing well Vital signs stable Good oral intake Diet good Good urine output IV d/c Abdomen soft, good bowel sounds Skin warm & dry Telemetry-normal sinus rhythm 	
+09/01/02 12:00 AM 	NEUROLOGICAL SCORE 	Neurological score: 15 	
+09/01/02 12:00 AM 	VITAL SIGNS 	T 36 P 57 R 20 BP 167/86 	
+09/01/02 02:00 AM 	NURSES NOTES 	No slurred speech noted, strength equal & strong, no distress, asleep, but arousable, denies any slurring of speech, pain or discomfort. 	
+09/01/02 05:25 AM 	LABS / Hematology 	platelets 136 (ref 140-450) low MPV 12.0 (ref 7.4-10.4) High 	
+		Hgb 14.1 (ref 12-16) ok Hct 42.3 (ref 37-47) ok 	
+09/01/02 08:00 AM 	NEUROLOGICAL SCORE 	Neurological score: 15 	
+09/01/02 08:00 AM 	VITAL SIGNS 	T 36.5 P 52 R 20 BP 145/91 	
+09/01/02 09:55 AM 	NURSES NOTES 	Dr. Peacock in, Patient had another episode of expressive aphasia. Dr. ordered CT of the brain. 	CT to help establish the reason for another episode of expressive aphasia. 
+09/01/02 10:00 AM 	PROGRESS NOTES / Dr. Peacock 	Patient observed by the nurses to have another episode of aphasia. CT & Ultrasound within normal limits. Repeat CT scan of the brain. BP 145/90 now at baseline. Impression: TIA. Re-consult with neurology, assess the need for full anti-coagulation. 	
+09/01/02 10:00 AM 	MEDICATION SHEET 	Ecotrin & Plavix given x1 daily 	
+09/01/02 10:10 AM 	PHYSICIAN'S ORDERS / Dr. Peacock 	CT scan of brain 	
+09/01/02 12:00 PM 	RADIOLOGY / CT scan of the brain 	CT scan & noted at the left temporal there was encephalomalacia (softening of the brain due to deficient blood supply). 	A stroke. 
+09/01/02 03:00 PM 	CONSULTATION / Dr. Plum 	Went to see the patient because of the recurrent episode of dysphasia. Reviewed the CT scan & noted at the left temporal there was encephalomalacia (softening of the brain due to deficient blood supply). He recommended since the patient has failed on antiplatelets (Ecotrin & Plavix) suggest that she be on anticoagulants (heparin). 	
+09/01/02 	PHYSICIAN'S ORDERS / Dr. 	PTT, PT INR stat 	Heparin is an anticoagulant, it does not 
+10/21/2010
+Page 6 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+03:35 PM 	Mustard 	Heparin 6,000 units IV x1 stat Then 1,000 units every hour IV Check APTT in 6 hour, call resident if PTT is <50 or >75 BMP CBC with diff in am. 	dissolve blood clots but forestalls their enlargement & prevent new clots from forming. This order suggested range for therapeutic therapy is 50-75 any value over or under will be called to the nursing units as a critical value. The high values states clotting is taking to long, increasing the chance of a bleeding. The low value states the clotting is happening to quickly which would increase the chance of increasing blood clots. PTT is a very important value to monitor during heparin therapy. PTT should be drawn: Before dosage begins 6 hours post initiation of therapy 6 hours post dosage adjustment 2x day when on maintenance dosage Reference: Ref 3 Standard guidelines when administering Heparin 
+09/01/02 03:40 PM 	PROGRESS NOTES / Dr. Mustard 	Recurrent TIA Commence Heparin per neurology. Continue with Ecotrin & Plavix. 	Starting Heparin & continuing Ecotrin & Plavix. Why continue Ecotrin & Plavix? Both of these medications are platelet inhibitors. Platelet inhibitors prevent clotting and increasing the inability to clot takes away the main defense in heparinized patients have to prevent hemorrhage. Ecotrin is a non-steroidal anti- inflammatory medication & should be used with caution when receiving thrombolytic therapy. The literature states the risk of hemorrhage with thrombolytic therapy. 
+09/01/02 04:00 PM 	NURSES NOTES 	Patient's condition awake, pleasant & cooperative. 	
+09/01/02 04:00 PM 	VITAL SIGNS 	T 36.5 P 56 R 20 BP 134/69 	
+09/01/02 04:00 PM 	NEUROLOGICAL SCORE 	Neurological score: 15 	
+09/01/02 04:00 PM 	MEDICATION SHEET 	Heparin 6000 units IV x1 stat 	Heparin is started without knowledge of baseline PTT. The patient has been on Ecotrin & Plavix. 
+09/01/02 04:00 PM 	LABS / Coagulation 	PTT, INR, PT drawn stat 	
+09/01/02 05:00 PM 	MEDICATION SHEET 	Heparin 1000 units IV every hour. 	
+09/01/02 05:21 PM 	LABS / Coagulation 	PTT>100 (coag <50->75) critical 	They gave 6500 units of Heparin & before knew the PTT. Heparin is decreased. 
+09/01/02 	PHYSICIAN'S ORDERS / 	Hold Heparin gtt for 1 hour, restart at 900 	PTT @ 12mn 
+10/21/2010
+Page 7 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+06:00 PM 	House officer 	units every hour. PTT in 6 hours 	
+09/01/02 06:01 PM 	MEDICATION SHEET 	Held Heparin for 1 hour, then decreased to 900 units/every hour. 	
+09/01/02 07:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/01/02 08:00 PM 	NURSES NOTES 	Patient comfortable, no change in her condition. 	
+09/01/02 08:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/01/02 09:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/01/02 10:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/01/02 11:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/02/02 12:00 AM 	NEUROLOGICAL SCORE 	Neurological score: 15 	
+09/02/02 12:00 AM 	SUMMARY NURSES NOTES 	Patient's condition unchanged. Vital signs stable Chest clear Good urine output IV heparin infusing Abdomen soft, good bowel sounds Skin warm & dry Telemetry-normal sinus rhythm No signs of TIA's 	
+09/02/02 12:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/02/02 01:00 AM 	LABS / Coagulation 	PTT 80 (coag <50->75) critical 	Heparin is decreased 
+09/02/02 01:10 AM 	PHYSICIAN'S ORDERS / House officer 	Hold Heparin for I hour, restart at 800 units every hour. PTT in 6 hours. 	
+09/02/02 02:00 AM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+09/02/02 03:00 AM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+09/02/02 04:00 AM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+09/02/02 04:00 AM 	NURSES NOTES 	Patient stable. Slept throughout the night. 	
+09/02/02 04:55 AM 	LABS / Hematology 	Platelet count 146 (ref 140-450) ok MPV 12.2 (ref 7.4-10.4) higher 	MPV higher 
+		Hgb 14.1 (ref 12-16) ok Hct 41.1 (ref 37-47) ok 	
+09/02/02 05:00 AM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+09/02/02 06:00 AM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+09/02/02 07:00 AM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+10/21/2010
+Page 8 of 17
+Medical Record Review
+Jane Doe
+Location
+Chart Documentation
+Review Note/Reference
+Date
+09/02/02 07:00 AM 	LABS / Coagulation 	PTT 70 (coag <50->75) ok 	Heparin is continued @ 800 units 
+09/02/02 07:10 AM 	PHYSICIAN'S ORDERS / Dr. Mustard 	PTT in 6 hours 	PTT @ 13:00 
+09/02/02 08:00 AM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+09/02/02 08:00 AM 	NEUROLOGICAL SCORE 	Neurological score: 15 	
+09/02/02 08:00 AM 	VITAL SIGNS 	T 37.2 P 60 R 16 BP 150/70 	
+09/02/02 09:00 AM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+09/02/02 10:00 AM 	MEDICATION SHEET 	Ecotrin & Plavix given x1 daily. 	
+09/02/02 10:00 AM 	RADIOLOGY / CT scan of the brain 	No hemorrhage Encephalomalacia (softening of the brain due to lack of blood supply) in the left temporal lobe. 	Lack of blood supply indicating another stroke. 
+09/02/02 10:00 AM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+09/02/02 10:10 AM 	NURSES NOTES 	Patient slurring speech, reported to Dr. Peacock 	
+09/02/02 10:15 AM 	PROGRESS NOTES / Dr. Peacock 	Recent events noted. Severe expressive dysphagia. CT scan showed no hemorrhage. Continue heparin. 	
+09/02/02 10:30 AM 	PHYSICIAN'S ORDERS / Dr. Peacock 	Speech Therapy evaluation. Continue Heparin. 	
+09/02/02 11:00 AM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+09/02/02 12:00 PM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+09/02/02 12:00 PM 	VITAL SIGNS 	T 36 P 64 R 16 BP 94/77 	BP dropped 
+09/02/02 12:15 PM 	PHYSICIAN'S ORDERS / Dr. Mustard 	Start IV normal saline 100 cc/hr. Keep BP at 140-150. Notify house officer if BP drops. 	
+09/02/02 12:20 PM 	NURSES NOTES 	IV restarted, normal saline 100 cc/hr 	
+09/02/02 12:25 PM 	VITAL SIGNS 	BP 142/90 P 68 R 20 	
+09/02/02 01:00 PM 	MEDICATION SHEET 	Heparin 800 units IV every hour 	
+09/02/02 01:00 PM 	NURSES NOTES 	Helping her with lunch, nurse called "Mom not talking, not using right hand." patient was using right hand doing gross but not fine movements. Right grip very weak unable to answer verbally. Right mouth slightly drooping, flat affect, mouth full of food, 	A change in cognition. 
+10/21/2010
+Page 9 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+		unable to spit out or swallow. BP 124/73. Dr. Plum & 2 junior residents in to do neuro check. Patient unable to say her name, right grip stronger but still very much more dysphasic. Speech therapist in. 	
+09/02/02 01:05 PM 	LABS / Coagulation 	PTT 43 (coag <50->75) low 	PTT 43 low, heparin increased to 900 units /hr. A PTT is due in 6 hours @ 7pm. 
+09/02/02 01:10 PM 	NEUROLOGICAL SCORE 	Neurological score: 12 	A change in score, a change in verbal communication is noted, incomprehensive words. 
+09/02/02 01:15 PM 	PHYSICIAN'S ORDERS / Dr. Mustard 	Increase Heparin to 900 units/hr. PTT in 6 hours. 	Heparin is increased. 
+09/02/02 01:35 PM 	PROGRESS NOTES / Dr. Mustard 	Recurrent TIA CT of head. Discussed with Dr. Plum & Dr. Peacock 	
+09/02/02 02:00 PM 	NEUROLOGICAL SCORE 	Neurological score: 12 	
+09/02/02 02:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/02/02 02:00 PM 	VITAL SIGNS 	BP 148/88 P 66 R 20 	
+09/02/02 02:00 PM 	PROGRESS NOTES / Dr. Peacock 	Patient continues to have difficulty finding words. Impression: CVA Requests speech therapy Will do CT scan. 	Change in condition 
+		Continue IV 100cc/hr NS 	
+09/02/02 02:15 PM 	PHYSICIAN'S ORDERS / Dr. Mustard 	CT scan of the brain stat 	
+09/02/02 02:30 PM 	CONSOLATION: Dr. Plum 	Informed at 1330 that the patient has facial asymmetry & difficulty speaking BP dropped 94/77. IV normal saline being given. BP improved. Alert, marked expressive aphasia, at 1330 unable to speak at all, by 1430 was able to speak 1-2 words. Comprehension was good although was unable to follow complex instructions. Right side weakness. Discussed with family- explained that Heparin prevents clots from forming but does not lyse clots. Patient was on Ecotrin, Plavix & Heparin so there is a danger of a stroke or a small bleed & that we would do a CT scan immediately to assure that there was no bleeding. Plan: 1. Review CT scan. 2. Continue IV fluids, keep BP at 140 -150, check volume status at regular intervals. 	Discussion with family a small bleed 24 hours after Heparin therapy began. BP dropped, still giving Heparin, Ecotrin & Plavix. 
+		Discussed plan with Dr. Peacock 	
+09/02/02 03:00 PM 	NEUROLOGICAL SCORE 	Neurological score: 12 	Neuro score has decreased. 
+10/21/2010
+Page 10 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+09/02/02 03:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/02/02 03:10 I PM 	RADIOLOGY / CT scan of the brain 	Sub-optimal CT scan Significant Atheromatous (fatty infiltration by lipids on the walls of arteries, seen in CAD) disease & stenosis cannot be excluded on this study. The number of vessels identified in the left middle cerebral circulation is decreased compared to the right. 	Sub-optimal CT (should have been repeated) or a MRI done. Change in cognition & BP drop with earlier high PTT's. 
+09/02/02 04:00 PM 	PHYSICIAN'S ORDERS / Dr. Mustard 	Increase heparin gtt to 900 units every hour. Repeat PTT in 6 hours PTT in AM 	PTT @ 7pm 
+		Continue IV saline 100cc/hr 	
+09/02/02 04:00 PM 	NURSES NOTES 	Awake, family at bedside, Right grasp weak, Right leg weaker, answers yes only, MAE, follows commands appropriately. 	Right side is weaker. 
+09/02/02 04:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/02/02 04:00 PM 	VITAL SIGNS 	BP 140/60 P 68 R 20 	
+09/02/02 05:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/02/02 05:15 PM 	PROGRESS NOTES / Dr. Plum 	Recent event notes noted. BP now 140/60 Alert with expressive aphasia. CT scan negative for hemorrhage. Plan: Continue Heparin 	The CT scan was sub optimal. Should have been repeated. 
+09/02/02 06:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/02/02 07:00 PM 	LABS/ Coagulation 	PTT 70 (coag <50->75) ok 	
+09/02/02 07:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/02/02 08:00 PM 	VITAL SIGNS 	T 38 P 68 R 18 BP 149/59 	
+09/02/02 08:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/02/02 08:00 PM 	NURSES NOTES 	Sleeping easily aroused, condition unchanged, Right side remains weaker. IV fluids continue @ 100cc/hr 	Right side weaker. 
+09/02/02 09:00 PM 	NURSES NOTES 	Sleeping, easily arousable, speech unchanged, does not initiate conversation 	
+09/02/02 09:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/02/02 10:00 PM 	NURSES NOTES / Nurse Green, RN 	Patient alert, left sclera slightly bloodshot, expressive aphasia, Right grip slightly weaker than the left, MAE (moves all extremities), 	Right grip slightly weaker than left Left sclera slightly bloodshot Change was not reported. 
+09/02/02 10:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+10/21/2010
+Page 11 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+09/02/02 10:00 PM 	NURSES NOTES 	Comfortable, R side weaker 	
+09/02/02 11:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/02/02 11:30 PM 	NURSES NOTES 	IV @ 100cc/hr maintaining BP Chest clear Good urine output Abdomen soft, good bowel sounds Skin warm & dry Telemetry-normal sinus rhythm 	
+09/03/02 12:00 AM 	VITAL SIGNS 	T 35.5 P 62 R 20 BP 142/80 	
+09/03/02 12:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 12:10 AM 	NURSES NOTES 	Patient assessed denies any complaints, call light in reach, side rails checked x2. 	
+		IV fluids continue at 100 cc/hr 	
+09/03/02 01:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 02:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 02:30 AM 	NURSES NOTES 	Patient responds to verbal stimuli, call light in reach, still slight right sided weakness, no complaints from the patient. 	
+		IV continues @ 100cc/hr 	
+09/03/02 03:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 04:00 AM 	VITAL SIGNS 	T 37 P 68 R 18 BP 140/70 	
+09/03/02 04:00 AM 	LABS / Hematology 	platelets 133 (ref 140-450) low MPV 12.6 (ref 7.4-10.4) high 	Platelets, Hgb & Hct lower, 1st sign of anemia & a change in clinical condition 
+		Hgb 11.8 (ref 12-16) low Hct 35.8 (ref 37-47) low 	
+09/03/02 04:00 AM 	NEUROLOGICAL SCORE 	Neurological score: 12 	
+09/03/02 04:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 05:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 05:15 AM 	LABS / Coagulation 	PTT 74 (coag <50->75) ok 	PTT is higher within range PTT @ 11:00 
+09/03/02 06:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 06:00 AM 	NEUROLOGICAL SCORE 	Neurological score: 12 	
+09/03/02 07:00 AM 	NURSES NOTES 	IV normal saline 100cc/hr 	
+10/21/2010
+Page 12 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+09/03/02 07:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 08:00 AM 	NEUROLOGICAL SCORE 	Neurological score: 12 	
+09/03/02 08:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 08:00 AM 	VITAL SIGNS 	T 37.9 P 64 R 18 BP 148/80 	
+09/03/02 09:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 09:30 AM 	PHYSICIAN'S ORDERS / Dr. Mustard / Nurse Wadsworth, RN 	Next APTT at 1100, then in AM Call if <50 or > 80 CBC with diff, BMP in am Continue IV normal saline at 100cc/hr 	Notes low Hgb & Hct 9pm CBC was not done. 
+		D/C Plavix & Ecotrin H/H low Repeat CBC with diff @ 9pm & call resident with the results 	
+09/03/02 09:35 AM 	CONSOLATION / Plum 	Diagnoses: Left cerebral infarct. Continue Heparin 	
+09/03/02 09:40 AM 	PROGRESS NOTES / Dr. Mustard 	Discussed with relatives & patient current management about the risk & benefits of continuing heparin. Monitor platelets closely. Discussed with Dr. Peacock & Dr. Plum 	Dr. Mustard is concerned about he CBC. 
+09/03/02 10:00 AM 	MEDICATION SHEET 	Ecotrin & Plavix given x1 daily. 	The order to d/c the Ecotrin & Plavix was written @ 9:30. The order was probably not taken off & Dr. Mustard did tell the nurses. 
+09/03/02 10:00 AM 	NURSES NOTES 	Patient remains aphasic, ate cereal & applesauce, tolerated. Dr. Plum in to see the patient this am. Up at bedside, comfortable. 	
+09/03/02 10:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 11:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 11:00 AM 	LABS / Coagulation 	PTT 73 (coag <50->75) ok 	Going up a little, within desired range. 
+09/03/02 11:00 AM 	PROGRESS NOTES / Dr. Mustard 	Patient looks better today Lungs: clear Heart regular: rhythm, no gallop. Abdomen: benign Neuro status: tongue still slightly deviated to the right, ? Mild facial asymmetry droop. Impression: Recurrent TIA, on anticoagulants with heparin, ASA & Plavix, IV line looks OK. 	
+09/03/02 12:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 12:00 PM 	VITAL SIGNS 	T 38.5 P 56 	
+10/21/2010
+Page 13 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+		R 20 BP 142/78 	
+09/03/02 12:00 PM 	NURSES NOTES 	Ate lunch without a problem, tolerated. 	
+09/03/02 01:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 02:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 	NURSES NOTES 	Assessment unchanged, speech improving. 	
+02:30 PM 		IV 100cc/hr 	
+09/03/02 03:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 04:00 PM 	NURSES NOTES 	Patient resting in bed. Family at bedside. Heparin infusing a 900 units/hour. No difficulty, pain or discomfort, voided. IV saline 100cc/hr 	
+09/03/02 04:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 04:00 PM 	VITAL SIGNS 	T 37 P 60 R 20 BP 140/80 	
+09/03/02 05:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 06:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 07:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 08:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 08:00 PM 	NEUROLOGICAL SCORE / Nurse Green, RN 	Neurological score: 10 	Neurological score lower. The physicians were not notified. 
+09/03/02 08:00 PM 	VITAL SIGNS 	T 37.1 P 78 R 18 BP 142/90 	
+09/03/02 09:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 10:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 11:00 PM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/03/02 11:30 PM 	NURSES NOTES / Nurse Green, RN 	IV @ 100 cc/hr maintaining BP Chest clear Good urine output Abdomen soft, good bowel sounds Skin warm & dry Telemetry-normal sinus rhythm Patient still aphasic with right-sided droop 	
+09/04/02 12:00 AM 	VITAL SIGNS 	T 37.8 P 92 	
+10/21/2010
+Page 14 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+		R 16 BP 138/80 	
+09/04/02 12:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/04/02 01:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/04/02 02:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/04/02 03:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/04/02 04:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/04/02 04:00 AM 	VITAL SIGNS 	BP 92/60 P 110 R 18 	BP drops, pulse increases. This was not reported to the physicians. 
+09/04/02 04:50 AM 	LABS / Coagulation 	PTT>100 (coag <50->75) critical. Called to floor nurse White at 5:15 	platelets low, Hct dropped, BP dropped, pulse increases Critical value never reported to the physicians. Heparin is continuing Critical value called to Nurse White @ 5:15. Couldn't find record that this value was reported to the physician. Heparin being infused at 900 units every hour. 
+09/04/02 04:50 AM 	LABS / Hematology 	platelets 80 (ref 140-150) low MPV 12.6 (ref 7.4-10.4) high Hgb 8.6 (ref 12-16) low Hct 33.8 (ref 37-47) low 	
+09/04/02 05:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/04/02 05:30 AM 	NURSES NOTES 	IV saline @ 100cc/hr. Patient sleeping. 	
+09/04/02 06:00 AM 	NEUROLOGICAL SCORE 	Neurological score: 10 Responses easily to stimulus Eye reaction sluggish Eyes not open Patient generally unresponsive Arm flexes to pain Level of consciousness changed to confused (disoriented to time & place). verbal worse (inappropriate words or patient's ability to converse or answer questions). 	Doing worse 
+09/04/02 06:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hr 	
+09/04/02 06:30 AM 	NURSES NOTES 	Asked the patient if she could tell me where she was & the date, the patient replied "I suppose" in a trailing off voice, patient grasped right hand but weak & left pedal slight movement on command, patient diaphoretic, patient became less responsive & began showing right sided deficit. Left eye 	Some of this documentation sheet is cut off from the copy. Left eye sclera slightly blood shot 9/3, no follow up, could a ophthalmologist visit detect small bleeds. 
+10/21/2010
+Page 15 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+		hyperemia (blood in the anterior chamber of the eye) present on initial exam pupils were both reactive at 3mm. Dr. Mustard paged, blood sugar 256. 	
+09/04/02 07:00 AM 	NURSES NOTES 	Dr. Peacock in to see the patient, EKG done, patient less responsive IV 100cc/hr 	2 hours ago a critical PTT value was called to nurse White this was not reported, now she is getting worse, heparin is still infusing. 
+09/04/02 07:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/04/02 07:30 AM 	NURSES NOTES 	Called to the room by phlebotomy, patient had emesis of small amount of food particles. Patient showing withdrawal posturing of right arm & right leg. Right leg tremors had seizure like tremor. 	
+09/04/02 08:00 AM 	VITAL SIGNS 	T 37.9 P 115 R 20 BP 90/60 	Critical PTT still not reported. 
+09/04/02 08:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/04/02 09:00 AM 	MEDICATION SHEET 	Heparin 900 units IV every hour 	
+09/04/02 09:00 AM 	NEUROLOGICAL SCORE 	Neurological score: 6 	Level of consciousness (semi-stuporous, minimal spontaneous activity) 
+09/04/02 09:10 AM 	PHYSICIAN'S ORDERS / Dr. Mustard 	Stat PTT & CBC 	
+09/04/02 09:30 AM 	NURSES NOTES 	BP 90, increase Nipride. 	
+09/04/02 09:30 AM 	LABS / Coagulation 	PTT >100 (coag <50->75) critical 	Heparin was discontinued. Should have been d/c @ 5:15 when >100 PTT level was called to Rose. 
+09/04/02 09:30 AM 	LABS / Hematology 	platelets 70 (ref 140-450) low MPV 12.8 (ref 7.4-10.4) high Hgb 7.9 (ref 12-16) low Hct 33.0 (ref 37-47) low 	Labs lower, bleeding, MVP higher 
+09/04/02 09:34 AM 	VITAL SIGNS 	P 120 BP 80/50 R 10 	
+09/04/02 09:35 AM 	NURSES NOTES 	Nipride to control BP. 	
+09/04/02 09:40 AM 	PHYSICIAN'S ORDERS / Dr. Mustard 	D/C Heparin Protamine 20 mg IV stat Type & cross match for packed cells stat Give 2 units of packed cells 	Protamine given to reverse the effects of the heparin. 
+09/04/02 09:45 AM 	NURSES NOTES 	Attempts to get BP difficult with manual cuff difficult due to posturing. Patient transferred to CCU bed #3, report given at bedside after CT scan. 	
+09/04/02 09:45 AM 	NURSES NOTES 	Patient intubated with 7.5 endotracheal tube a the 23 lip (they went through the mouth to place the tube into the trachea), ventilator rate 14, total volume 600 oxygen 100%. 	
+10/21/2010
+Page 16 of 17
+Medical Record Review
+Jane Doe
+Date 	Location 	Chart Documentation 	Review Note/Reference 
+		Attempting heplock to administer Protamine (heparin dilutant), IV started, Blood gases drawn before placement on ventilator. 	
+09/04/02 10:10 AM 	NURSES NOTES 	Patient arrived to the unit, unresponsive, Nipride started for BP, medical Resident in, patient at 90 degree angle, monitor heart rhythm, undigested food noted, suctioned from mouth. Pulse oxygen 100%, pupils pinpoint & non-reactive, patient posturing noted. 	
+09/04/02 10:15 AM 	NURSES NOTES 	Blood gas results called, ventilator settings adjusted rate 12 & oxygen 50%. Family remains at bedside. 	
+09/04/02 10:20 AM 	NURSES NOTES 	Foley catheter put in place with 500cc of clear urine at 2:30am. A NG (nasogastric tube) #16 in place via resident. 	
+09/04/02 10:35 AM 	VITAL SIGNS 	T 37.2 P 130 R- on ventilator BP 78/50 	
+09/04/02 10:35 AM 	PHYSICIAN'S ORDERS / Dr. Mustard 	Stat CT scan of the brain 	
+09/04/02 10:45 AM 	NURSES NOTES 	Patient taken to x-ray for CT scan Respiratory therapy is with the patient managing the airway. 	
+09/04/02 11:00 AM 	RADIOLOGY / CT scan of the brain 	Cerebral hemorrhage 	1st ischemic stroke, now hemorrhagic stroke 
+09/04/02 11:30 AM 	VITAL SIGNS 	P 140 BP 60/40 R-on ventilator 	
+09/04/02 11:50 AM 	NURSES NOTES 	Back from x-ray. Patient remains unresponsive, neurologist speaking with family at this time. CT scan showed bleed. Family decided to make the patient DNR. Pupils are pinpoint 	
+09/04/02 12:00 PM 	NURSES NOTES 	Discussion Dr. Peacock & Dr. Mustard family decided to request a full DNR and discontinue heroic measures. 	
+09/04/02 12:10 PM 	PHYSICIAN'S ORDERS / Dr. Mustard 	Consult with Dr. Peach (anesthesia) RE: extubation. 	
+09/04/02 12:30 PM 	NURSES NOTES 	Patient received 1 mg if Morphine, extubated & placed on oxygen. 	
+09/04/02 12:40 PM 	PHYSICIAN'S ORDERS / Dr. Mustard 	Morphine drip titrate for comfort. D/C all other meds & labs. IV fluids D5 1/2 NS at 800 cc/hour. 	
+09/04/02 12:45 PM 	NEUROLOGICAL SCORE 	Neurological score: 5 	Progressively worse. 
+09/04/02 12:50 PM 	LABS/ Coagulation 	PTT 25 (ref 20-33) ok 	Normal, Heparin has been off for 3 hours 
+09/04/02 01:00 PM 	NURSES NOTES 	Family at bedside, patient breathing R 8 	The patient passed away. Family in attendance. 
+10/21/2010
+Page 17 of 17

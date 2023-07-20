@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  text2phenotype-py:
+    image: "docker.text2phenotype.com/text2phenotype-py:${TAG_RANDOM_SEED:-stage}"
+    command: bin/docker-test-unit.sh
+    env_file:
+      - ./docker-compose-tests-unit.env
+    volumes:
+      - ../text2phenotype-samples:/text2phenotype-samples
+      - ./google_application_credentials.json:/app/google_application_credentials.json
+    networks:
+      text2phenotype-py:
+        aliases:
+          - text2phenotype-py
+
+networks:
+  text2phenotype-py:

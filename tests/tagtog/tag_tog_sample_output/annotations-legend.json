@@ -1,0 +1,16 @@
+{
+  "e_3" : "lab_unit",
+  "f_14" : "demographic_type",
+  "e_2" : "lab_value",
+  "r_7" : "i5eqfxw4x80(e_1|e_4)",
+  "f_10" : "code",
+  "f_12" : "preferredText",
+  "f_8" : "lstm_pro",
+  "r_5" : "gwnnk3vywfc(e_1|e_2)",
+  "r_6" : "l4eki63fu9m(e_1|e_3)",
+  "f_11" : "cui",
+  "e_4" : "lab_interp",
+  "f_9" : "label",
+  "e_1" : "lab",
+  "e_13" : "patient_demographic"
+}

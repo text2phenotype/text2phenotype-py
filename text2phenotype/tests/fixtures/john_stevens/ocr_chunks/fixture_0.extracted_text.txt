@@ -1,0 +1,51 @@
+Page 1 of 3
+PATIENT:Stevens, John - 03/19/1968 Generated on 2017-07-21 - ViSolve Clinic 000-000-0000
+ViSolve Clinic
+000-000-0000
+John Stevens
+Generated on: 2017-07-21
+Patient Data:
+Who Name: Mr. John Stevens External ID: 235-21-0677
+DOB: 1968-03-19
+Sex: Male
+History Data:
+General Exams/Tests:
+Lifestyle Tobacco:
+Status: Quit
+Former smoker ( SNOMED-
+CT:8517006 )
+The patient has been smoking up until
+three to four months previously.
+Coffee:
+Alcohol:
+Recreational
+Drugs:
+Counseling:
+Exercise
+Patterns:
+Hazardous
+Activities:
+:::::::
+:::::::::
+::::::::
+:::::::::
+Insurance Data:
+Primary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+Secondary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+Tertiary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+:::::::::
+:::::::::::::::
+:::::::::::::::::::::::::::::::::::
+::::::::::::::::
+Billing Information:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Patient Immunization:
+:::::
+http://demo.visolve.com/openemr/interface/patient_file/report/custom_report.php?p... 7/21/2017
+

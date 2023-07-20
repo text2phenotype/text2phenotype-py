@@ -1,0 +1,694 @@
+-
+MIPROFILE
+CARIS
+MOLECULAR TUMOR REPORT
+LIFE SCIENCES
+FINAL REPORT
+PATIENT
+SPECIMEN INFORMATION
+ORDERED BY
+Name: Patient, Test
+Primary Tumor Site: Colon, NOS
+Ordering Physician, MD
+Date of Birth: XX-Mon-19XX
+Specimen Site: Inguinal lymph node
+Cancer Center
+Sex: Female
+Specimen ID: ABC-1234-XX
+123 Main Street
+Case Number: TN17-XXXXXX
+Specimen Collected: XX-Mon-2017
+Springfield, XY 12345 USA
+Diagnosis: Carcinoma, metastatic, NOS
+Completion of Testing: XX-Mon-2017
+1 (123) 456-7890
+BIOMARKER HIGHLIGHTS (SEE PAGE 2 AND APPENDIX FOR MORE DETAILS)
+Biomarker
+Method
+Result
+Biomarker
+Method
+Result
+Lineage Relevant Biomarkers
+Lineage Relevant Biomarkers (cont)
+KRAS
+NGS
+Mutation Not Detected
+MSH6
+IHC
+Positive 2+, 90%
+NRAS
+NGS
+Mutation Not Detected
+PMS2
+IHC
+Negative | 0, 100%
+BRAF
+NGS
+Mutation Not Detected
+PTEN
+IHC
+Positive | 1+, 100%
+PIK3CA
+NGS
+Mutation Not Detected
+TS
+IHC
+Positive 1+,20%
+Her2/Neu (ERBB2)
+NGS
+Amplification Not Detected
+TOPO1 GES
+IHC
+Positive
+|
+2+, ,90%
+FA
+High
+ERCC
+IHC
+Negative | 1+,5%
+MSI
+NGS
+Stable
+Other Notable Biomarker Results
+MLH1
+IHC
+Negative 0, 100%
+Total Mutational Load
+Low 6 Mutations/Mb
+MSH2
+IHC
+Positive | 2+,90%
+PD-L1
+IHC
+Negative | 1+,2%
+The therapies listed below are FDA-approved, on-NCCN Compendium for the tested lineage or deemed relevant for this lineage by a panel of internal and external oncology
+experts. Complete therapy association information and Off-NCCN compendium therapies are listed on pages (5-7).
+THERAPIES WITH POTENTIAL BENEFIT
+THERAPIES WITH UNCERTAIN BENEFIT
+cetuximab panitumumab¹ *
+BRAF, KRAS, NRAS,
+capecitabine, fluorouracil
+TS
+for
+PIK3CA, PTEN
+Drugs are placed in the Uncertain benefit category when a result suggests only a
+*
+nivolumab¹ pembrolizumab
+MLH1, MSI, PMS2
+decreased likelihood of response (vs. little to no likelihood of response) or if there is
+insufficient evidence to associate the drug with either benefit or lack of benefit.
+irinotecan
+TOPO1
+oxaliplatin
+ERCC1
+Drug/biomarker association(s) supported by the highest level of clinical evidence.
+Therapies associated with potential benefit or lack of benefit are based on biomarker results and published medical evidence derived from multiple tumor types. The selection of any,
+all, or none of the matched therapies resides solely with the discretion of the treating physician. Decisions on patient care and treatment must be based on the independent medical
+judgment of the treating physician, taking into consideration all available information concerning the patient's condition in accordance with the applicable standard of care.
+4610 South 44th Place, Suite 100 Phoenix, AZ 85040 (888) 979-8669 Fax: (866) 479-4925
+CE
+CLIA 03D1019490
+CAP 7195577
+ISO 15189:2012 -
+3531.01
+. Zoran Gatalica, MD, DSc, Medical Director . ©2016 Caris Life Sciences. All rights reserved.
+Page 1 of 9
+-
+MIPROFILE
+CARIS
+MOLECULAR TUMOR REPORT
+LIFE SCIENCES
+BIOMARKER RESULTS
+This summary includes biomarkers most commonly associated with cancer. Complete details of all biomarkers tested can be found in the Appendix.
+TOTAL MUTATIONAL LOAD
+Mutations / Megabase:
+6
+Result: Low
+MICROSATELLITE INSTABILITY (MSI) BY FRAGMENT ANALYSIS
+MSI by Fragment analysis
+Result: High
+7
+MICROSATELLITE INSTABILITY (MSI) BY VEXT-GENERATION SEQUENCING
+MSI by NGS
+Result: Stable
+IMMUNOHISTOCHEMISTRY (IHC)
+Biomarker
+Result
+Biomarker
+Result
+Biomarker
+Result
+ERCC1
+Negative 1+,5%
+MSH6
+Positive 2+, ,90%
+PTEN
+Positive
+1+, 100%
+MLH1
+Negative | 0, 100%
+PD-L1
+Negative | 1+,2%
+TOPO1
+Positive | 2+,90%
+MSH2
+Positive | 2+, 90%
+PMS2
+Negative | 0, 100%
+TS
+Positive
+|
+1+, 20%
+GENES TESTED WITH INDETERMINATE* SEQUENCING RESULTS BY NGS
+ATRX
+KMT2C
+SMARCE1
+*
+Genes in this table were ruled indeterminate due to low coverage orsome or all exons. Please see Appendix for a complete list of indeterminate genes.
+GENES TESTED WITHOUT POINT MUTATIONS OR INDELS BY NGS
+ABL1
+AKT1
+ALK
+AMER1
+ARC
+AR
+ARAF
+ARID2
+ATM
+BAP1
+BMPR1A
+BRAF
+BRCA1
+BRCA2
+c-KIT
+CDC73
+CDH1
+CDK4
+CDKN1B
+CDKN2A
+CHEK1
+CHEK2
+CIC
+CMET
+CSF1R
+CTNNB1
+DDR2
+EGFR
+ERBB3
+ERBB4
+ESR1
+FBXW7
+FGFR1
+FGFR2
+FGFR3
+FGFR4
+Her2/Neu
+FH
+FLCN
+FLT3
+FOXL2
+FUBP1
+GATA3
+GNA11
+GNAQ
+GNAS
+HNF1A
+HRAS
+(ERBB2)
+KDR
+IDH1
+JAK2
+JAK3
+KDM5C
+KDM6A
+KMT2A
+KMT2D
+KRAS
+MAX
+MEK1
+MEK2
+(VEGFR2)
+MEN1
+MITE
+MLH1
+MPL
+MSH2
+MSH6
+MTOR
+MUTYH
+NF2
+NOTCH1
+NPM1
+NRAS
+NTRK1
+PALB2
+PBRM1
+PDGFRA
+PDGFRB
+PHOX2B
+PIK3CA
+PIK3R1
+PMS2
+POLE
+POT1
+PPARG
+PPP2R1A
+PRKARTA
+PTCH1
+PTEN
+PTPN11
+RAF1
+RB1
+RET
+RNF43
+ROS1
+SDHAF2
+SDHB
+SDHC
+SDHD
+SETD2
+SF3B1
+SMAD4
+SMARCA4
+SMARCB1
+SMO
+SPOP
+SRC
+STK11
+SUFU
+TERT
+TP53
+TSC1
+TSC2
+VHL
+WT1
+Additional results continued on the next page. >
+PATIENT: Patient, Test (XX-Mon-19XX)
+TN17-XXXXXX
+PHYSICIAN: Ordering Physician, MD
+4610 South 44th Place, Suite 100 Phoenix, AZ 85040 (888) 979-8669 . Fax: (866) 479-4925
+CLIA 03D1019490 CAP 7195577 ISO 15189:2012 - 3531.01 . Zoran Gatalica, MD, DSc, Medical Director . ©2016 Caris Life Sciences. All rights reserved.
+Page 2 of 9
+-
+MIPROFILE
+CARIS
+MOLECULAR TUMOR REPORT
+LIFE SCIENCES
+GENES TESTED WITHOUT COPY NUMBER VARIATIONS (AMPLIFICATIONS) BY NGS
+AKT2
+ALK
+ARID1A
+AURKB
+CCND1
+CCND3
+CCNE1
+CDK4
+CDK6
+CDK8
+CDKN2A
+CMET
+CREBBP
+CRKL
+EGFR
+EP300
+EZH2
+FGF10
+FGF3
+FGF4
+FGFR1
+FGFR2
+FGFR3
+GATA3
+Her2/Neu
+KDR
+MCL1
+MDM2
+MEK1
+MYC
+NF2
+NFKBIA
+NTRK1
+RB1
+RICTOR
+ROS1
+(ERBB2)
+(VEGFR2)
+TOP1
+WT1
+company
+PATIENT: Patient, Test (XX-Mon-19XX)
+TN17-XXXXXX
+PHYSICIAN: Ordering Physician, MD
+4610 South 44th Place, Suite 100 Phoenix, AZ 85040 (888) 979-8669 . Fax: (866) 479-4925
+CLIA 03D1019490 CAP 7195577 ISO 15189:2012 - 3531.01 . Zoran Gatalica, MD, DSc, Medical Director . ©2016 Caris Life Sciences. All rights reserved.
+Page 3 of 9
+-
+MIPROFILE
+CARIS
+MOLECULAR INTSLLIGSNCS TUMOR REPORT
+LIFE SCIENCES
+NOTES OF SIGNIFICANCE
+SEE APPENDIX FOR FULL DETAILS
+Clinical Trials ConnectorTM opportunities based on biomarker expression: 144 Chemotherapy Trials | 109 Targeted Therapy Trials. See page
+8
+for details.
+GOOD
+SPECIMEN INFORMATION
+Specimen ID: ABC-1234-XX
+Specimen Collected: XX-Mon-2017
+Specimen Received: XX-Mon-2017
+Testing Initiated: XX-Mon-2017
+Gross description: 1 (A) Paraffin Block - Client ID (ABC-123-XY) from XYZ Medical Center, Springfield, XY, with the corresponding cytology
+report labeled "ABC-123-XY".
+Pathologic Diagnosis: Left inguinal lymph node needle biopsy: Metastatic carcinoma.
+Dissection Information: Molecular testing of this specimen was performed after harvesting of targeted tissues with an approved manual
+microdissection technique. Candidate slides were examined under a microscope and areas containing tumor cells (and separately normal cells, when
+necessary
+for
+testing)
+were
+circled.
+A
+laboratory
+technician
+harvested
+targeted
+tissues
+for
+extractionfrom
+the
+marked
+areas
+using
+a
+dissection
+microscope.
+The areas marked and extracted were microscopically reexamined on post-microdissected slides and adequacy of microdissection was verified by a
+board certified Pathologist.
+PATIENT: Patient, Test (XX-Mon-19XX)
+TN17-XXXXXX
+PHYSICIAN: Ordering Physician, MD
+4610 South 44th Place, Suite 100 Phoenix, AZ 85040 (888) 979-8669 . Fax: (866) 479-4925
+CLIA 03D1019490 CAP 7195577 ISO 15189:2012 - 3531.01 . Zoran Gatalica, MD, DSc, Medical Director . ©2016 Caris Life Sciences. All rights reserved.
+Page 4 of 9
+-
+MIPROFILE
+CARIS
+MOLECULAR TUMOR REPORT
+LIFE SCIENCES
+THERAPIES WITH POTENTIAL BENEFIT
+Refer to the Appendix for detailed Result and Value information for each biomarker, including appropriate cutoffs, unit of measure, etc.
+Drug Association Details
+Does Result
+Therapies
+Test
+Method
+Result
+Value
+Highest
+Support
+Level of
+Reference
+Drug
+Evidence*
+Association?
+FDA-APPROVED/ON-NCCN COMPENDIUM®
+Mutation Not
+BRAF
+NGS
+Yes
+Good
+Detected
+9*,10*
+11*,12*,
+13*,
+Mutation Not
+KRAS
+NGS
+Yes
+/ Good
+Detected
+14*,15*,
+16*,17",
+cetuximab & , panitumumab) A
+18.,19*
+Mutation Not
+NRAS
+NGS
+-
+Yes
+/ Good
+Detected
+Mutation Not
+6*,8*,
+PIK3CA
+NGS
+-
+Yes
+/Good
+Detected
+22*,24*
+8",21*,
+1+ 100%
+Yes
+II-2 / Good
+MLH1 PTEN IHC IHC Negative Positive
+22*,23*
+5,,28",
+0+ 100%
+Yes
+/ Good
+29*,30
+MSH2
+IHC
+Positive
+2+90%
+No
+-
+-
+MSH6
+IHC
+Positive
+2+ 90%
+No
+-
+-
+nivolumab * pembrolizumab)
+5*,28",
+MSI
+FA
+High
+High
+Yes
+/ Good
+MSI
+NGS
+Stable
+Stable
+No
+-
+-
+5*,28*,
+PMS2
+IHC
+Negative
+0+ 100%
+Yes
+I / Good
+29*,30
+25",
+irinotecan
+TOPO1
+IHC
+Positive
+2+ 90%
+Yes
+II-1 / Good
+26*,27*
+Additional Therapies with Potential Benefit continued on the next page. >
+PATIENT: Patient, Test (XX-Mon-19XX)
+TN17-XXXXXX
+PHYSICIAN: Ordering Physician, MD
+4610 South 44th Place, Suite 100 Phoenix, AZ 85040 (888) 979-8669 . Fax: (866) 479-4925
+CLIA 03D1019490 CAP 7195577 ISO 15189:2012 - 3531.01 . Zoran Gatalica, MD, DSc, Medical Director . ©2016 Caris Life Sciences. All rights reserved.
+Page 5 of 9
+-
+MIPROFILE
+CARIS
+MOLECULAR TUMOR REPORT
+LIFE SCIENCES
+THERAPIES WITH POTENTIAL BENEFIT
+Refer to the Appendix for detailed Result and Value information for each biomarker, including appropriate cutoffs, unit of measure, etc.
+Drug Association Details
+Does Result
+Therapies
+Test
+Method
+Result
+Value
+Highest
+Support
+Level of
+Reference
+Drug
+Evidence*
+Association?
+FDA-APPROVED/ON-NCCN COMPENDIUM®
+Mutation Not
+ATM
+NGS
+-
+No
+-
+Detected
+Mutation Not
+BRCA1
+NGS
+-
+No
+-
+-
+Detected
+oxaliplatin
+Mutation Not
+BRCA2
+NGS
+-
+No
+-
+-
+Detected
+ERCC1
+IHC
+Negative
+1+ 5%
+Yes
+II-2 / Good
+31*,32*
+Drug/biomarker association(s) supported by the highest level of clinical evidence.
+is
+*
+The
+level of evidence for all references is assigned according to the Literature Level of Evideno ce Framework consistent with the US Preventive Services Task Force
+described further in the Appendix of this report. The data level of each biomarker-drug interaction is the highest level of evidence based on the body of evidence, overall
+clinical utility, competing biomarker interactions and tumor type from which the evidence.was gathered.
+# Evidence reference includes data from the same lineage as the tested specimen.
+PATIENT: Patient, Test (XX-Mon-19XX)
+TN17-XXXXXX
+PHYSICIAN: Ordering Physician, MD
+4610 South 44th Place, Suite 100 Phoenix, AZ 85040 (888) 979-8669 . Fax: (866) 479-4925
+CLIA 03D1019490 CAP 7195577 ISO 15189:2012 - 3531.01 . Zoran Gatalica, MD, DSc, Medical Director . ©2016 Caris Life Sciences. All rights reserved.
+Page 6 of 9
+-
+MIPROFILE
+CARIS
+MOLECULAR TUMOR REPORT
+LIFE SCIENCES
+THERAPIES WITH UNCERTAIN BENEFIT
+Drugs are placed in the Uncertain benefit category when a result suggests only a decreased likelihood of response (vs. little to no likelihood
+of response) or if there is insufficient evidence to associate the drug with either benefit or lack of benefit. Refer to the Appendix for detailed
+Result and Value information for each biomarker, including appropriate cutoffs, unit of measure, etc.
+Drug Association Details
+Does Result
+Therapies
+Test
+Method
+Result
+Value
+Highest
+Support
+Level of
+Reference
+Drug
+Evidence*
+Association?
+FDA-APPROVED/ON-NCCN COMPENDIUM®
+clum
+capecitabine, fluorouracil
+TS
+IHC
+Positive
+1+ 20%
+Yes
+II-1 / Good
+1,2,3
+* The level of evidence for all references is assigned according to the Literature Level of Evidence Framework consistent with the US Preventive Services Task Force
+described further in the Appendix of this report. The data level of each biomarker-drug interaction is the highest level of evidence based on the body of evidence, overall
+clinical utility, competing biomarker interactions and tumor type from which the evidence was gathered.
+PATIENT: Patient, Test (XX-Mon-19XX)
+TN17-XXXXXX
+PHYSICIAN: Ordering Physician, MD
+4610 South 44th Place, Suite 100 Phoenix, AZ 85040 (888) 979-8669 . Fax: (866) 479-4925
+CLIA 03D1019490 CAP 7195577 ISO 15189:2012 - 3531.01 . Zoran Gatalica, MD, DSc, Medical Director . ©2016 Caris Life Sciences. All rights reserved.
+Page 7 of 9
+-
+MIPROFILE
+CARIS
+MOLECULAR TUMOR REPORT
+LIFE SCIENCES
+CLINICAL TRIALS CONNECTORT
+For a complete list of open, enrolling clinical trials visit MI Portal to access the Clinical Trials Connector This personalized, real-time
+web-based service provides additional clinical trial information and enhanced searching capabilities, including, but not limited to:
+Location: filter by geographic area
+Biomarker(s): identify specific biomarkers associated with open clinical trials to choose from
+Drug(s): search for specific therapies
+Trial Sponsor: locate trials based on the organization supporting the trial(s)
+Visit www.CarisMolecularIntelligence.com to view all matched trials.
+CHEMOTHERAPY CLINICAL TRIALS (144)
+Drug Class
+Biomarker
+Method
+Investigational Agent(s)
+Platinum compounds (89)
+ERCC1
+IHC
+carboplatin, cisplatin, oxaliplatin
+TOPO1 inhibitors (55)
+TOPO1
+IHC
+irinotecan
+and
+TARGETED THERAPY CLINICAL TRIALS (109)
+Drug Class
+Biomarker
+Method
+Investigational Agent(s)
+MLH1
+IHC
+MEDI4736, MK-3475, MPDL3280A, MSB0010718C,
+Immunomodulatory agents
+atezolizumab, avelumab, durvalumab, nivolumab,
+(108)
+MSI
+Fragment Analysis
+pembrolizumab
+MDM2 inhibitors (1)
+TP53
+NGS
+DS-3032
+() = represents the total number of clinical trials identified by the Clinica Trials Connector for the provided drug class or table.
+PATIENT: Patient, Test (XX-Mon-19XX)
+TN17-XXXXXX
+PHYSICIAN: Ordering Physician, MD
+4610 South 44th Place, Suite 100 Phoenix, AZ 85040 (888) 979-8669 . Fax: (866) 479-4925
+CLIA 03D1019490 CAP 7195577 ISO 15189:2012 - 3531.01 . Zoran Gatalica, MD, DSc, Medical Director . ©2016 Caris Life Sciences. All rights reserved.
+Page 8 of 9
+-
+MIPROFILE
+CARIS
+MOLECULAR TUMOR REPORT
+LIFE SCIENCES
+To view the rest of the report, contact a
+Caris Molecular Intelligence
+-
+representative today.
+(888) 979- 8669
+MIclientservices@carisls.com
+PATIENT: Patient, Test (XX-Mon-19XX)
+TN17-XXXXXX
+PHYSICIAN: Ordering Physician, MD
+4610 South 44th Place, Suite 100 Phoenix, AZ 85040 (888) 979-8669 . Fax: (866) 479-4925
+CLIA 03D1019490 CAP 7195577 ISO 15189:2012 - 3531.01 . Zoran Gatalica, MD, DSc, Medical Director . ©2016 Caris Life Sciences. All rights reserved.
+Page 9 of 9

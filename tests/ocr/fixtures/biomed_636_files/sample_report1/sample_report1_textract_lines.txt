@@ -1,0 +1,1249 @@
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+Date of Birth
+Not Given
+Medical Facility
+Not Given
+Specimen Received
+Not Given
+Sex
+Female
+Ordering Physician
+Not Given
+Specimen Site
+Lung
+FMI Case #
+SRF078789
+Additional Recipient
+Not Given
+Date of Collection
+Not Given
+Medical Record #
+0
+Medical Facility ID #
+-1
+Specimen Type
+Block
+Specimen ID
+Not Given
+Pathologist
+Not Provided
+ABOUT THE TEST:
+FoundationOne® is a next-generation sequencing (NGS) based assay that identifies genomic alterations within hundreds of cancer-related genes.
+TUMOR TYPE: PANCREAS DUCTAL
+PATIENT RESULTS
+ADENOCARCINOMA
+4 genomic alterations
+Genomic Alterations Identified+
+KRASG12R
+1 therapy associated with potential clinical benefit
+NTRK1 A5T
+TP53 R175H
+0 therapies associated with lack of response
+SMAD4G365fs*19
+12 clinical trials
+For a complete list of the genes assayed and performance
+specifications, please refer to the Appendix
+See Appendix for details
+THERAPEUTIC IMPLICATIONS
+Genomic Alterations
+FDA Approved Therapies
+FDA Approved Therapies
+Potential Clinical Trials
+Detected
+(in patient's tumor type)
+(in another tumor type)
+KRAS
+None
+Trametinib
+Yes, see clinical trials
+G12R
+section
+NTRK1
+None
+None
+Yes, see clinical trials
+A5T
+section
+TP53
+None
+None
+Yes, see clinical trials
+R175H
+section
+SMAD4
+None
+None
+None
+G365fs*19
+Note: Genomic alterations detected may be associated with activity of certain FDA approved drugs; however, the agents listed in this report may have
+varied clinical evidence in the patient's tumor type. Neither the therapeutic agents nor the trials identified are ranked in order of potential or predicted
+efficacy for this patient, nor are they ranked in order of level of evidence for this patient's tumor type.
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 1 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+GENOMIC ALTERATIONS
+GENE
+INTERPRETATION
+ALTERATION
+KRAS encodes a member of the RAS family of small GTPases that mediate transduction of growth
+KRAS
+signals. Activation of RAS signaling promotes cell growth, differentiation, and survival by activating the
+G12R
+RAF/MEK/ERK, PI3K, and other pathways¹. KRAS is one of the most commonly mutated genes in human
+malignancies, with particularly high incidences in pancreatic, colorectal, and lung cancers2,3,4 KRAS
+missense mutations affecting amino acids G12, G13, A59, Q61, and A146 of the KRAS protein have been
+characterized to be activating and oncogenic1,5,6,7,8,9,10,11,12,13,14,15
+KRAS mutations have been reported in
+70% of pancreatic ductal adenocarcinomas (COSMIC, Oct 2014). In the pancreatic adenocarcinoma
+TCGA dataset, KRAS mutations have been found in 63% of cases (cBioPortal, Oct 2014). In the literature,
+activating KRAS mutation has been reported in more than 80% of pancreatic adenocarcinomas, with the
+majority of mutations found at codon 123,16,17,18 KRAS mutations, particularly G12D, have been
+associated with decreased median survival time in patients with pancreatic ductal adenocarcinoma16
+Constitutive activation of KRAS activates the RAF/MEK/ERK pathway, leading to tumorigenesis¹,19 and
+may therefore predict sensitivity to inhibitors of this pathway. MEK inhibitors, alone or in combination with
+other targeted therapies, are in clinical trials in solid tumors, including tumors with KRAS mutations20 The
+MEK inhibitor trametinib is FDA approved as both a single agent and in combination with dabrafenib for
+the treatment of melanoma and is being studied in clinical trials in solid tumors21. A preclinical study
+reported that pancreatic cancer cell lines with the KRAS G12V mutation specifically are much
+more
+resistant to MEK inhibitors than cells with wild type KRAS or other KRAS mutations22 Other preclinical
+studies have suggested that antitumorigenic effects of MEK inhibitors in models of pancreatic cancer are
+significantly improved by combination with PI3K-Akt pathway inhibitors, CDK4/6 inhibitors, or anti-EGFR
+and anti-HER2 antibodies; the synergistic effects were observed in both KRAS mutant and KRAS wild
+type tumors23,24,25,26 The reovirus Reolysin targets cells with activated RAS signaling27,21 and is in
+clinical trials in some tumor types. Reolysin has demonstrated mixed clinical efficacy, with the highest rate
+of response reported for head and neck cancer 30,31,32,33,34,35,36,37,38 KRAS mutation status may predict lack
+of response to EGFR-targeted therapies such as erlotinib, gefitinib, cetuximab, and panitumumab in
+non-
+small-cell lung cancer (NSCLC) and colon cancer -39,40,41,42,43 However, a retrospective analysis of a Phase
+3 study examining pancreatic cancer patients treated with erlotinib and chemotherapy found that KRAS
+mutation was not associated with objective response but was significantly associated with decreased
+overall survival44.
+NTRK1 encodes the receptor tyrosine kinase TrkA, which plays a role in the development of the nervous
+NTRK1
+system by regulating cell proliferation, differentiation, and survival of neurons. TrkA is activated upon
+A5T
+binding of its ligand NGF to promote several downstream signaling pathways, including the GRB2-Ras-
+MAPK and NF-KappaB pathways45,46,47,48 The NTRK1 mutation observed here has not been
+characterized and its effect on TrkA function is unknown. However, this mutation has been observed in
+the context of cancer before, which may indicate biological relevance. NTRK1 mutations have been
+reported in 0.4-2% of pancreatic carcinomas (COSMIC, cBioPortal, Nov 2014). TrkA has been shown to
+be expressed in pancreatic carcinoma patients, and TrkA expression is correlated with aggressive
+disease, poor prognosis, pain, and perineural invasion49,50 TrkA expression and activity in pancreatic
+cancer cell lines was reported to be correlated with resistance to gemcitabine, and NTRK1 knockdown
+sensitized the cells to gemcitabine treatment51 NTRK1 expression was shown to promote the proliferation
+of pancreatic cancer cells, which could be reduced by ERK inhibitors and 2-deoxy-D-glucose52 There are
+currently no approved therapies targeting NTRK1. Pan-Trk inhibitors, including lestaurtinib (CEP-701) and
+AZD7451, have been evaluated in clinical trials in several tumor types, and additional studies are in
+progress in certain cancers 53,54,55 Crizotinib, a TKI approved for NSCLC, has been reported to be
+effective in NSCLC cells with activating fusions in NTRK156 However, as the mutation reported here has
+not been functionally characterized, it is not known whether this therapeutic approach would be relevant.
+Functional loss of the tumor suppressor p53, which is encoded by the TP53 gene, is common in
+aggressive advanced cancers57 TP53 missense mutations located within the DNA-binding domain (DBD;
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 2 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+aa 100-300) of the p53 protein, such as the mutation observed here, are thought to dysregulate the
+TP53
+transactivation of p53-dependent genes and are predicted to promote tumorigenesis58,59 TP53 mutations
+R175H
+have been found in approximately 25-65% of pancreatic adenocarcinomas, including 48.6% of pancreas
+ductal carcinoma cases (COSMIC, cBioPortal, Feb 2015). TP53 mutations are common in pancreatic
+ductal adenocarcinoma and occur in the process of pancreatic carcinogenesis60,61 Studies have found
+inconsistent results regarding the prognostic significance of p53 expression in pancreatic ductal
+adenocarcinoma62,63 Germline mutations in TP53 are associated with the very rare disorder Li-Fraumeni
+syndrome and the early onset of many cancers64,65 Estimates for the prevalence of germline TP53
+mutations in the general population range from 1:5,00066 to 1:20,00067, and in the appropriate clinical
+context, germline testing of TP53 is recommended. There are no approved therapies to address TP53
+mutation or loss. However, tumors with TP53 loss of function alterations may be sensitive to the Wee-1
+inhibitor MK-177568,69 therapies that reactivate mutant p53 such as APR-24670. or p53 gene therapy and
+immunotherapeutics such as ALT-801 (Hajdenberg et al., 2012; ASCO Abstract e15010). Clinical trials of
+these agents are under way for some tumor types for patients with a TP53 mutation. Kevetrin has also
+been reported to activate p53 in preclinical studies and might be relevant in the context of mutant p53
+(Kumar et al., 2012; AACR Abstract 2874).
+SMAD4 encodes a transcription factor downstream of TGF-beta71 SMAD4, also known as DPC4 or
+SMAD4
+MADH4, was first identified in a screen for tumor suppressors in pancreatic cancer72 SMAD4 alterations
+G365fs*1
+that result in loss of the MH1 domain (aa 18-142), MH2 domain (aa 323-552), or SAD domain (aa 275-
+320), such as observed here, are predicted to result in a loss of function73 SMAD4 mutations have been
+reported in 17% of pancreatic ductal carcinomas (COSMIC, Oct 2014). Homozygous loss of SMAD4
+occurs in up to 55% of pancreatic tumors through a combination of loss of heterozygosity and gene
+mutation74 In one study, SMAD4 mutations were reported in 32% of pancreatic cancers and the presence
+of a mutation predicted poorer survival75. Loss of Smad4 protein expression has been reported in 32-60%
+of pancreatic ductal adenocarcinoma samples' 63,76 SMAD4 alteration, by mutation or homozygous
+deletion, as well as loss of Smad4 protein expression, has been found to be associated with poor
+prognosis in pancreatic ductal adenocarcinoma patients63,75,77. Germline mutations of SMAD4 are
+commonly seen in juvenile polyposis syndrome, which is associated with an increased risk of
+gastrointestinal cancers78. At present, there are no therapies available to address SMAD4 loss or mutation
+in cancer. Some studies suggest that pancreatic tumors with low Smad4 expression exhibit increased
+responsiveness to chemotherapeutic agents such as cisplatin and irinotecan79,80
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 3 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+THERAPIES
+There are no therapies FDA approved in this patient's tumor type that are specific to the reported genomic alterations.
+ADDITIONAL THERAPIES - FDA APPROVED IN OTHER TUMOR TYPES
+THERAPY
+SUMMARY OF DATA IN OTHER TUMOR TYPE
+Trametinib
+Trametinib is a MEK inhibitor that is FDA approved as both a single agent and in combination with
+dabrafenib for the treatment of unresectable or metastatic melanoma with BRAF V600E or V600K
+mutations. Activating KRAS mutations may activate the MAPK pathway and predict sensitivity to inhibitors
+such as trametinib. A Phase 1b trial of trametinib in combination with gemcitabine in patients with solid
+tumors showed a complete response in a breast cancer patient, as well as partial responses in pancreatic
+and salivary gland cancers. In particular, 3 of 10 patients with measurable pancreatic cancer exhibited
+partial responses81 However, in a Phase 2 study of 160 pancreatic cancer patients, the combination of
+trametinib with gemcitabine did not result in significant improvement in overall survival (OS), progression-
+free survival (PFS), or response rate (RR) compared with gemcitabine alone82 KRAS mutation status
+was not associated with overall survival in this study. Furthermore, a Phase 2 study of combination
+treatment with gemcitabine and refametinib (another MEK inhibitor) in pancreatic cancer reported a trend
+toward a higher RR (48% vs. 28%), longer PFS (9.0 months vs. 4.6 months) and longer OS (18.2 months
+vs. 6.6 months) in KRAS-wildtype patients compared to KRAS-mutant patients (Riess et al., 2014; ASCO
+Abstract 4129, Van Laethem et al., 2014; ASCO Abstract 4025). A Phase 2 trial of combination treatment
+with the MEK inhibitor selumetinib and the EGFR inhibitor erlotinib reported no responses in 41
+pancreatic cancer patients but stable disease (SD) in 21/41 (51%) patients, with adverse events requiring
+dose reduction in 38% of patients; KRAS mutation status was not assessed (Ko et al., 2013; ASCO
+Abstract 4014). Similarly, a Phase 1b combination trial of trametinib and the pan-PI3K inhibitor BKM120
+showed SD in 12/24 (50%) pancreatic cancer patients, but no responses; although the study
+recommended a Phase 2 dose, prevalent and often severe adverse effects were reported83. However,
+a
+Phase 1b trial of a combination of trametinib and the mTOR inhibitor everolimus in patients with solid
+tumors reported frequent adverse events and the study was unable to identify a recommended Phase 2
+dose and schedule for the combination84
+Genomic alterations detected may be associated with activity of certain FDA approved drugs, however the agents listed in this report may have little
+or
+no evidence in the patient's tumor type
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 4 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+CLINICAL TRIALS TO CONSIDER
+IMPORTANT: While every effort is made to ensure the accuracy of the information contained below, the information available in the
+public domain is continuously updated and should be investigated by the physician or research staff. This is not meant to be a
+complete list of available trials. In order to conduct a more thorough search, please go to www.clinicaltrials.gov and use the search
+terms provided below. For more information about a specific clinical trial, type the NCT ID of the trial indicated below into the search
+bar.
+GENE
+RATIONALE FOR POTENTIAL CLINICAL TRIALS
+KRAS-activating mutations may result in activation of downstream pathways, including the MAPK pathway.
+Therefore, MEK inhibitors may be relevant in a tumor with KRAS mutation.
+KRAS
+G12R
+Examples of clinical trials that may be appropriate for this patient are listed below. These trials were
+identified through a search of the trial website clinicaltrials.gov using keyword terms such as "KRAS", "MEK",
+"Reolysin", "trametinib", "pancreatic carcinoma", "solid tumor", and/or "advanced cancer".
+TITLE
+PHASE
+TARGETS
+LOCATIONS
+NCT ID
+A Multi-Arm Phase 1 Dose Escalation Study Of
+Phase 1
+MEK, PI3K,
+California, Colorado, South
+NCT01347866
+The Safety, Pharmacokinetics, And
+TOR, TOP1
+Carolina, Barcelona (Spain),
+Pharmacodynamics Of The Dual PI3K/mTOR
+Milano (Italy), Ontario (Canada)
+Inhibitors PF-04691502 And PF-05212384 In
+Combination With Experimental Or Approved
+Anticancer Agents In Patients With Advanced
+Cancer
+A Phase lb Open-label, Multi-center, Dose
+Phase
+MEK, PI3K-
+California, Illinois,
+NCT01449058
+Escalation and Expansion Study of Orally
+1/Phase
+alpha
+Massachusetts, Texas, Utah,
+Administered MEK162 Plus BYL719 in Adult
+2
+multiple ex-US locations
+Patients With Selected Advanced Solid Tumors
+Phase I/II Study of the CDK4/6 Inhibitor
+Phase
+MEK, CDK4,
+Massachusetts
+NCT02022982
+Palbociclib (PD-0332991) in Combination With
+1/Phase
+CDK6
+the MEK Inhibitor PD-0325901 for Patients With
+2
+KRAS Mutant Non-Small Cell Lung Cancer and
+Other Solid Tumors
+A PHASE lb, OPEN-LABEL, DOSE-
+Phase 1
+MEK,
+California, Colorado,
+NCT01986166
+ESCALATION STUDY OF THE SAFETY,
+ERBB3,
+Tennessee, Texas, Barcelona
+TOLERABILITY, AND PHARMACOKINETICS
+EGFR
+(Spain), Madrid (Spain),
+OF MEHD7945A and GDC-0973 IN PATIENTS
+Valencia (Spain)
+WITH LOCALLY ADVANCED OR
+METASTATIC SOLID TUMORS WITH
+MUTANT KRAS
+An Open Label, Two-Part, Phase lb/Il Study to
+Phase
+MEK, BCL2
+Massachusetts
+NCT02079740
+Investigate the Safety, Pharmacokinetics,
+1/Phase
+Pharmacodynamics, and Clinical Activity of the
+2
+MEK Inhibitor Trametinib and the BCL2-Family
+Inhibitor Navitoclax (ABT-263) in Combination
+in Subjects With KRAS Mutation-Positive
+Advanced Solid Tumors
+A Phase 1b Study of the Safety and
+Phase 1
+MEK, PD-L1
+Colorado, Connecticut,
+NCT01988896
+Pharmacology of MPDL3280A Administered
+Massachusetts, New York,
+With Cobimetinib in Patients With Locally
+North Carolina, Tennessee,
+Advanced or Metastatic Solid Tumors
+Texas, Washington, multiple
+ex-US locations
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 5 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+CLINICAL TRIALS TO CONSIDER (CONT.)
+GENE
+RATIONALE FOR POTENTIAL CLINICAL TRIALS
+Tumors with activating mutation in NTRK1 may be sensitive to Trk inhibitors, such as lestaurtinib (CEP-
+701), AZD7451, and crizotinib.
+However, as the mutation reported here has not been functionally characterized, it is not known whether
+NTRK1
+this therapeutic approach would be relevant.
+A5T
+Examples of clinical trials that may be appropriate for this patient are listed below. These trials were
+identified through a search of the trial website clinicaltrials.gov using keyword terms such as "Trk",
+"lestaurtinib", "AZD7451", "crizotinib", "pancreatic carcinoma", "solid tumor", and/or "advanced cancer"
+TITLE
+PHASE
+TARGETS
+LOCATIONS
+NCT ID
+A Phase I/lla Open-Label, Dose Escalation and
+Phase
+TrkA, TrkB,
+Arizona, California,
+NCT02048488
+Cohort Expansion Trial of Oral TSR-011 in
+1/Phase
+TrkC
+Tennessee, Washington,
+Patients With Advanced Solid Tumors and
+2
+London (United Kingdom)
+Lymphomas
+A Phase 1 Study to Assess Safety,
+Phase 1
+CSF1R, TrkA,
+Arizona, California, South
+NCT01804530
+Pharmacokinetics, and Pharmacodynamics of
+TrkB, TrkC
+Carolina
+PLX7486 as a Single Agent and in Combination
+With Gemcitabine and Nab-Paclitaxel in
+Patients With Advanced Solid Tumors
+A Phase I Trial of Dasatinib in Combination
+Phase 1
+BCR-ABL,
+Texas
+NCT01744652
+With Crizotinib in Patients With Advanced
+BTK, CSF1R,
+Malignancies
+EphA2, KIT,
+PDGFRs,
+SRC, LYN,
+MET, ALK,
+ROS1, RON,
+NTRKs
+A Phase 1/1b Study of MGCD516 in Patients
+Phase 1
+MET, AXL,
+Massachusetts, Missouri, New
+NCT02219711
+With Advanced Solid Tumor Malignancies
+RET, TRK,
+York, Tennessee
+DDR2, KDR,
+PDGFRA, KIT
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 6 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+CLINICAL TRIALS TO CONSIDER (CONT.)
+GENE
+RATIONALE FOR POTENTIAL CLINICAL TRIALS
+Tumors with TP53 loss of function alterations may be sensitive to Wee-1 inhibitors, therapies that reactivate
+mutant p53, or p53 gene therapy and immunotherapeutics.
+TP53
+Examples of clinical trials that may be appropriate for this patient are listed below. These trials were
+R175H
+identified through a search of the trial website clinicaltrials.gov using keyword terms such as "p53",
+"AZD1775", "MK1775", "Wee1" "APR-246", "kevetrin", "ALT-801" "pancreatic carcinoma", "solid tumor",
+and/or "advanced cancer".
+TITLE
+PHASE
+TARGETS
+LOCATIONS
+NCT ID
+A Phase 1, Open-Label, Dose-Escalation,
+Phase 1
+MDM2, p53
+Massachusetts
+NCT01664000
+Safety, Pharmacokinetic and
+Pharmacodynamic Study of Kevetrin
+(Thioureidobutyronitrile) Administered
+Intravenously, in Patients With Advanced Solid
+Tumors
+Phase 1 DOSE ESCALATION TRIAL OF THE
+Phase
+Wee-1
+Michigan
+NCT02037230
+Wee1 INHIBITOR MK1775, IN COMBINATION
+1/Phase
+WITH GEMCITABINE (+RADIATION) FOR
+2
+PATIENTS WITH UNRESECTABLE
+ADENOCARCINOMA OF THE PANCREAS
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 7 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+APPENDIX
+VARIANTS OF UNKNOWN SIGNIFICANCE
+Note: One or more variants of unknown significance (VUS) were detected in this patient's tumor. These variants have not yet been
+adequately characterized in the scientific literature at the time this report was issued and/or the genomic context of these alterations
+make their significance unclear. We choose to include them here in the event that they become clinically meaningful in the future.
+AR
+ATR
+JAK3
+SPOP
+E238V
+S1142G
+A797V
+N244S
+STAG2
+T601I
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 8 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+APPENDIX
+GENES ASSAYED IN FOUNDATIONONE
+FoundationOne is designed to include all genes known to be somatically altered in human solid tumors that are validated targets for
+therapy, either approved or in clinical trials, and/or that are unambiguous drivers of oncogenesis based on current knowledge. The
+current assay interrogates 236 genes as well as 47 introns of 19 genes involved in rearrangements. The assay will be updated
+periodically to reflect new knowledge about cancer biology.
+ABL1
+BARD1
+CD79A
+CSF1R
+EZH2
+FGFR2
+HRAS
+KEAP1
+MLL2
+NRAS
+PRKDC
+SMARCB1
+TSC2
+AKT1
+BCL2
+CD79B
+CTCF
+FAM123B
+FGFR3
+IDH1
+KIT
+MPL
+NTRK1
+PTCH1
+SMO
+TSHR
+(WTX)
+AKT2
+BCL2L2
+CDC73
+CTNNA1
+FAM46C
+FGFR4
+IDH2
+KLHL6
+MRE11A
+NTRK2
+PTEN
+SOCS1
+VHL
+AKT3
+BCL6
+CDH1
+CTNNB1
+FANCA
+FLT1
+IGF1R
+KRAS
+MSH2
+NTRK3
+PTPN11
+SOX10
+WISP3
+ALK
+BCOR
+CDK12
+DAXX
+FANCO
+FLT3
+IKBKE
+LRP1B
+MSH6
+NUP93
+RAD50
+SOX2
+WT1
+APC
+BCORL1
+CDK4
+DDR2
+FANCD2
+FLT4
+IKZF1
+MAP2K1
+MTOR
+PAK3
+RAD51
+SPEN
+XPO1
+AR
+BLM
+CDK6
+DNMT3A
+FANCE
+FOXL2
+IL7R
+MAP2K2
+MUTYH
+PALB2
+RAF1
+SPOP
+ZNF217
+ARAF
+BRAF
+CDK8
+DOT1L
+FANCF
+GATA1
+INHBA
+MAP2K4
+MYC
+PAX5
+RARA
+SRC
+ZNF703
+ARFRP1
+BRCA1
+CDKN1B
+EGFR
+FANCG
+GATA2
+IRF4
+MAP3K1
+MYCL1
+PBRM1
+RB1
+STAG2
+ARID1A
+BRCA2
+CDKN2A
+EMSY
+FANCL
+GATA3
+IRS2
+MCL1
+MYCN
+PDGFRA
+RET
+STAT4
+(C11orf30)
+ARID2 BRIP1 CDKN2B EP300 FBXW7 GID4 JAK1 MDM2 MYD88 PDGFRB RICTOR STK11
+(C17orf39)
+ASXL1
+BTK
+CDKN2C
+EPHA3
+FGF10
+GNA11
+JAK2
+MDM4
+NF1
+PDK1
+RNF43
+SUFU
+ATM
+CARD11
+CEBPA
+EPHA5
+FGF14
+GNA13
+JAK3
+MED12
+NF2
+PIK3CA
+RPTOR
+TET2
+ATR
+CBFB
+CHEK1
+EPHB1
+FGF19
+GNAQ
+JUN
+MEF2B
+NFE2L2
+PIK3CG
+RUNX1
+TGFBR2
+ATRX
+CBL
+CHEK2
+ERBB2
+FGF23
+GNAS
+KAT6A
+MEN1
+NFKBIA
+PIK3R1
+SETD2
+TNFAIP3
+(MYST3)
+AURKA
+CCND1
+CIC
+ERBB3
+FGF3
+GPR124
+KDM5A
+MET
+NKX2-1
+PIK3R2
+SF3B1
+TNFRSF14
+AURKB
+CCND2
+CREBBP
+ERBB4
+FGF4
+GRIN2A
+KDM5C
+MITF
+NOTCH1
+PPP2R1A
+SMAD2
+TOP1
+AXL
+CCND3
+CRKL
+ERG
+FGF6
+GSK3B
+KDM6A
+MLH1
+NOTCH2
+PRDM1
+SMAD4
+TP53
+BAP1
+CCNE1
+CRLF2
+ESR1
+FGFR1
+HGF
+KDR
+MLL
+NPM1
+PRKAR1A
+SMARCA4
+TSC1
+Select Rearrangements
+ALK
+BCL2
+BCR
+BRAF
+EGFR
+ETV1
+ETV4
+ETV5
+ETV6
+EWSR1
+MLL
+MYC
+NTRK1
+PDGFRA RAF1 RARA
+RET
+ROS1
+TMPRSS2
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 9 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+APPENDIX
+FOUNDATIONONE PERFORMANCE SPECIFICATIONS
+ACCURACY
+At Mutant Allele Frequency >10%
+>99.9% (CI* 99.6%-100%)
+Sensitivity: Base Substitutions
+At Mutant Allele Frequency 5-10%
+99.3% (CI* 98.3%-99.8%)
+At Mutant Allele Frequency >20%
+97.9% (CI* 92.5%-99.7%)
+Sensitivity: Insertions/Deletions (1-40 bp)
+At Mutant Allele Frequency 10-20%
+97.3% (CI* 90.5%-99.7%)
+Sensitivity: Copy Number
+At >30% tumor nuclei
+>99% (CI* 93.6%-100%)
+Alterations-Amplifications -
+(ploidy <4, Amplification with Copy Number >8)
+At 20% tumor nuclei
+92.6% (CI* 66.1%-99.8%)
+At >30% tumor nuclei
+Sensitivity: Copy Number Alterations- - Deletions
+97.2% (CI* 85.5%-99.9%)
+(ploidy <4, Homozygous Deletions)
+At 20% tumor nuclei
+88.9% (CI* 51.8%-99.7%)
+>90%¹
+Sensitivity: Rearrangements (selected rearrangements in specimens with >20% tumor nuclei)**
+>99% for ALK fusion²
+(CI* 89.1%-100%)
+Specificity of all variant types
+Positive Predictive Value (PPV)
+>99%
+96.4% inter-batch precision
+REPRODUCIBILITY (average concordance between replicates)
+98.9% intra-batch precision
+*95% Confidence Interval
+*Performance for gene fusions within targeted introns only. Sensitivity for gene fusions occurring outside targeted introns or in highly repetitive
+intronic
+sequence contexts is reduced.
+1Based on analysis of coverage and re-arrangement structure in the COSMIC database for the solid tumor fusion genes where alteration prevalence
+could be established, complemented by detection of exemplar rearrangements in cell line titration experiments.
+2Based on ALK re-arrangement concordance analysis VS. a standard clinical FISH assay described in: Yelensky, R. et al. Analytical validation of solid
+tumor fusion gene detection in a comprehensive NGS-based clinical cancer genomic test, In: Proceedings of the 105th Annual Meeting of the
+American Association for Cancer Research; 2014 Apr 5-9; San Diego, CA. Philadelphia (PA): AACR; 2014. Abstract nr 4699
+Assay specifications were determined for typical median exon coverage of approximately 500X. For additional information regarding the validation of
+FoundationOne, please refer to the article, Frampton, GM. et al. Development and validation of a clinical cancer genomic profiling test based on
+massively parallel DNA sequencing, Nat Biotechnol (2013 Oct. 20).
+For
+additional information specific to the performance of this specimen, please contact Foundation Medicine, Inc. at 1-888-988-3639.
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 10 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+APPENDIX
+REFERENCES
+#VAL Alagesan B, Contino G, Guimaraes AR, et al. (2014) Combined MEK and PI3K inhibition in a mouse model of pancreatic cancer.
+UE!
+Clin Cancer Res ePub Oct 2014
+#VAL Ansari D, Rosendahl A, Elebro J, et al. (2011) Systematic review of immunohistochemical biomarkers to identify prognostic
+UE!
+subgroups of patients with pancreatic cancer. Br J Surg 98(8) :1041-55
+#VAL Bachet JB, Maréchal R, Demetter P, et al. (2012) Contribution of CXCR4 and SMAD4 in predicting disease progression pattern
+UE!
+and benefit from adjuvant chemotherapy in resected pancreatic adenocarcinoma. Ann Oncol 3(9):2327-35
+#VAL Bedard PL, Tabernero J, Janku F, et al. (2014) Ph lb dose escalation study of oral pan-PI3K inhibitor buparlisib (BKM120) with
+UE!
+oral MEK1/2 inhibitor trametinib (GSK1120212) in patients with advanced solid tumours. Clin Cancer Res ePub Dec 2014
+#VAL Boeck S, Jung A, Laubender RP, et al. (2013) KRAS mutation status is not predictive for objective response to anti-EGFR
+UE!
+treatment with erlotinib in patients with advanced pancreatic cancer. J Gastroenterol 48(4):544-8
+#VAL Bridges KA, Hirai H, Buser CA, et al. (2011) MK-1775, a novel Wee1 kinase inhibitor, radiosensitizes p53-defective human tumor
+UE!
+cells. Clin Cancer Res 17(17):5638-48
+#VAL Brosens LA, Langeveld D, van Hattem WA, et al. (2011) Juvenile polyposis syndrome. World J Gastroenterol 17(44):4839-44
+UE!
+#VAL Brown CJ, Lain S, Verma CS, et al. (2009) Awakening guardian angels: drugging the p53 pathway. Nat Rev Cancer 9(12):862-73
+UE!
+#VAL Buhrman G, Holzapfel G, Fetics S, et al. (2010) Allosteric modulation of Ras positions Q61 for a direct role in catalysis. Proc Natl
+UE!
+Acad Sci USA 7(11):4931-6
+#VAL Chan E, Mulkerin D, Rothenberg M, et al. (2008) A phase I trial of CEP-701 + gemcitabine in patients with advanced
+UE!
+adenocarcinoma of the pancreas. Invest New Drugs 26(3):241-7
+#VAL Cheng Y, Diao DM, Zhang H, et al. (2013) Proliferation enhanced by NGF-NTRK1 signaling makes pancreatic cancer cells more
+UE!
+sensitive to 2DG-induced apoptosis. Int J Med Sci 10(5) 634-40
+#VAL Coffey MC, Strong JE, Forsyth PA, et al. (1998) Reovirus therapy of tumors with activated Ras pathway. Science 282(5392):1332
+UE!
+4
+#VAL Colicelli J (2004) Human RAS superfamily proteins and related GTPases. Sci STKE 2004(250):RE13
+UE!
+#VAL Comins C, Spicer J, Protheroe A, et al. (2010) REO-10: a phase I study of intravenous reovirus and docetaxel in patients with
+UE!
+advanced cancer. Clin Cancer Res 16(22):5564-72
+#VAL Cui Y, Brosnan JA, Blackford AL, et al. (2012) Genetically defined subsets of human pancreatic cancer show unique in vitro
+UE!
+chemosensitivity. Clin Cancer Res 18(23):6519-30
+#VAL
+Dang C, Zhang Y, Ma Q, et al. (2006) Expression of nerve growth factor receptors is correlated with progression and prognosis of
+UE!
+human pancreatic cancer. J Gastroenterol Hepatol (5):850-8
+#VAL
+Douillard JY, Oliner KS, Siena S, et al. (2013) Panitumumab-FOLFOX4 treatment and RAS mutations in colorectal cancer. N
+UE!
+Engl J Med 369(11):1023-34
+#VAL Dumble M, Crouthamel MC, Zhang SY, et al. (2014) Discovery of novel AKT inhibitors with enhanced anti-tumor effects in
+UE!
+combination with the MEK inhibitor. PLoS ONE (6):e100880
+#VAL Edkins S, O'Meara S, Parker A, et al. (2006) Recurrent KRAS codon 146 mutations in human colorectal cancer. Cancer Biol Ther
+UE!
+5(8) 928-32
+#VAL Farber L, Efrati E, Elkin H, et al. (2011) Molecular morphometric analysis shows relative intra-tumoural homogeneity for KRAS
+UE!
+mutations in colorectal cancer. Virchows Arch 459(5):487-93
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 11 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+APPENDIX
+REFERENCES
+#VAL Feig LA, Cooper GM (1988) Relationship among guanine nucleotide exchange, GTP hydrolysis, and transforming potential of
+UE!
+mutated ras proteins. Mol Cell Biol 8(6):2472-8
+#VAL Feldmann G, Beaty R, Hruban RH, et al. (2007) Molecular genetics of pancreatic intraepithelial neoplasia. J Hepatobiliary
+UE!
+Pancreat Surg 14(3):224-32
+#VAL Flaherty KT, Robert C, Hersey P, et al. (2012) Improved survival with MEK inhibition in BRAF-mutated melanoma. N Engl J Med
+UE!
+367(2):107-14
+#VAL Forsyth P, Roldán G, George D, et al. (2008) A phase I trial of intratumoral administration of reovirus in patients with histologically
+UE!
+confirmed recurrent malignant gliomas. Mol Ther 16(3):627-32
+#VAL Franco J, Witkiewicz AK, Knudsen ES (2014) CDK4/6 inhibitors have potent activity in combination with pathway selective
+UE!
+therapeutic agents in models of pancreatic cancer. Oncotarget 5(15):6512-25
+#VAL
+Galanis E, Markovic SN, Suman VJ, et al. (2012) Phase Il trial of intravenous administration of Reolysin(® (Reovirus Serotype-3-
+UE!
+dearing Strain) in patients with metastatic melanoma. Mol Ther 20(10) :1998-2003
+#VAL Gollamudi R, Ghalib MH, Desai KK, et al. (2010) Intravenous administration of Reolysin, a live replication competent RNA virus is
+UE!
+safe in patients with advanced solid tumors. Invest New Drugs 28(5):641-9
+#VAL Gong J, Mita MM (2014) Activated ras signaling pathways and reovirus oncolysis: an update on the mechanism of preferential
+UE!
+reovirus replication in cancer cells. Front Oncol 4:167
+#VAL
+Gonzalez KD, Noltner KA, Buzin CH, et al. (2009) Beyond Li Fraumeni Syndrome: clinical characteristics of families with p53
+UE!
+germline mutations. J Clin Oncol 7(8):1250-6
+#VAL Hahn SA, Schutte M, Hoque AT, et al. (1996) DPC4, a candidate tumor suppressor gene at human chromosome 18q21.1.
+UE!
+Science 271(5247):350-3
+#VAL
+Hamidi H, Lu M, Chau K, et al. (2014) KRAS mutational subtype and copy number predict in vitro response of human pancreatic
+UE!
+cancer cell lines to MEK inhibition. Br J Cancer 111 (9) :1788-801
+#VAL Han C, Ma J, Zhao J, et al. (2011) EGFR mutations, gene amplification, and protein expression and KRAS mutations in primary
+UE!
+and metastatic tumors of nonsmall cell lung cancers and their clinical implications: a meta-analysis. Cancer Invest 29(9):626-34
+#VAL Harrington KJ, Karapanagiotou EM, Roulstone V, et al. (2010) Two-stage phase I dose-escalation study of intratumoral reovirus
+UE!
+type 3 dearing and palliative radiotherapy in patients with advanced cancers. Clin Cancer Res 16(11):3067-77
+#VAL Hirai H, Arai T, Okada M, et al. (2010) MK-1775, a small molecule Wee1 inhibitor, enhances anti-tumor efficacy of various DNA-
+UE!
+damaging agents, including 5-fluorouracil. Cancer Biol Ther 7):514-22
+#VAL
+Hruban RH, van Mansfeld AD, Offerhaus GJ, et al. (1993) K-ras oncogene activation in adenocarcinoma of the human pancreas.
+UE!
+A study of 82 carcinomas using a combination of mutant-enriched polymerase chain reaction analysis and allele-specific
+oligonucleotide hybridization. Am J Pathol 143(2):545-54
+#VAL lacobuzio-Donahue CA, Velculescu VE, Wolfgang CL, et al. (2012) Genetic basis of pancreas cancer development and
+UE!
+progression: insights from whole-exome and whole-genome sequencing. Clin Cancer Res 8(16):4257-65
+#VAL
+Infante JR, Papadopoulos KP, Bendell JC, et al. (2013) A phase 1b study of trametinib, an oral Mitogen-activated protein kinase
+UE!
+kinase (MEK) inhibitor, in combination with gemcitabine in advanced solid tumours. Eur J Cancer 49(9):2077-85
+#VAL
+Infante JR, Somer BG, Park JO, et al. (2014) A randomised, double-blind, placebo-controlled trial of trametinib, an oral MEK
+UE!
+inhibitor, in combination with gemcitabine for patients with untreated metastatic adenocarcinoma of the pancreas. Eur J Cancer
+ePub Jun 2014
+#VAL Janakiraman M, Vakiani E, Zeng Z, et al. (2010) Genomic and biological characterization of exon 4 KRAS mutations in human
+UE!
+cancer. Cancer Res 70(14):5901-11
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 12 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+APPENDIX
+REFERENCES
+#VAL Joerger AC, Fersht AR (2008) Structural biology of the tumor suppressor p53. Annu Rev Biochem 77:557-82
+UE!
+#VAL Karapanagiotou EM, Roulstone V, Twigger K, et al. (2012) Phase I/II trial of carboplatin and paclitaxel chemotherapy in
+UE!
+combination with intravenous oncolytic reovirus in patients with advanced malignancies. Clin Cancer Res 18(7):2080-9
+#VAL Kato S, Han SY, Liu W, et al. (2003) Understanding the function-structure and function-mutation relationships of p53 tumor
+UE!
+suppressor protein by high-resolution missense mutation analysis. Proc Natl Acad Sci USA 100(14):8424-9
+#VAL Klein R, Jing SQ, Nanduri V, et al. (1991) The trk proto-oncogene encodes a receptor for nerve growth factor. Cell 65(1):189-97
+UE!
+#VAL Lalloo F, Varley J, Ellis D, et al. (2003) Prediction of pathogenic mutations in patients with early-onset breast cancer by family
+UE!
+history. Lancet 361(9363):1101-2
+#VAL Lehmann S, Bykov VJ, Ali D, et al. (2012) Targeting p53 in vivo: a first-in-human study with p53-targeting compound APR-246 in
+UE!
+refractory hematologic malignancies and prostate cancer. J Clin Oncol 30(29):3633-9
+#VAL Lièvre A, Bachet JB, Le Corre D, et al. (2006) KRAS mutation status is predictive of response to cetuximab therapy in colorectal
+UE!
+cancer. Cancer Res 66(8):3992-5
+#VAL Lindberg JM, Newhook TE, Adair SJ, et al. (2014) Co-treatment with panitumumab and trastuzumab augments response to the
+UE!
+MEK inhibitor trametinib in a patient-derived xenograft model of pancreatic cancer. Neoplasia 16(7):562-71
+#VAL Liu D, Zhang Y, Dang C, et al. (2007) siRNA directed against TrkA sensitizes human pancreatic cancer cells to apoptosis induced
+UE!
+by gemcitabine through an inactivation of PI3K/Akt-dependent pathway. Oncol Rep 18(3):673-7
+#VAL Lolkema MP, Arkenau HT, Harrington K, et al. (2011) A phase I study of the combination of intravenous reovirus type 3 Dearing
+UE!
+and gemcitabine in patients with advanced cancer. Clin Cancer Res 17(3):581-8
+#VAL Ludovini V, Bianconi F, Pistola L, et al. (2011) Phosphoinositide-3-kinase catalytic alpha and KRAS mutations are important
+UE!
+predictors of resistance to therapy with epidermal growth factor receptor tyrosine kinase inhibitors in patients with advanced non-
+small cell lung cancer. J Thorac Oncol 6(4):707-15
+#VAL Lukman S, Grant BJ, Gorfe AA, et al. (2010) The distinct conformational dynamics of K-Ras and H-Ras A59G. PLoS Comput Biol
+UE!
+6(9)
+#VAL Ma J, Jiang Y, Jiang Y, et al. (2008) Expression of nerve growth factor and tyrosine kinase receptor A and correlation with
+UE!
+perineural invasion in pancreatic cancer. J Gastroenterol Hepatol 23(12):1852-9
+#VAL Macgregor-Das AM, lacobuzio-Donahue CA (2013) Molecular pathways in pancreatic carcinogenesis. J Surg Oncol 107(1):8-14
+UE!
+#VAL Maitra A, Kern SE, Hruban RH (2006) Molecular pathogenesis of pancreatic cancer. Best Pract Res Clin Gastroenterol 20(2):211-
+UE!
+26
+#VAL Malkoski SP, Wang XJ (2012) Two sides of the story? Smad4 loss in pancreatic cancer versus head-and-neck cancer. FEBS Lett
+UE!
+586(14):1984-92
+#VAL
+Mao C, Qiu LX, Liao RY, et al. (2010) KRAS mutations and resistance to EGFR-TKIs treatment in patients with non-small cell
+UE!
+lung cancer: a meta-analysis of 22 studies. Lung Cancer 69(3) 272-8
+#VAL Marshall JL, Kindler H, Deeken J, et al. (2005) Phase I trial of orally administered CEP-701, a novel neurotrophin receptor-linked
+UE!
+tyrosine kinase inhibitor. Invest New Drugs 23(1):31-7
+#VAL Massagué J, Seoane J, Wotton D (2005) Smad transcription factors. Genes Dev 19(23):2783-810
+UE!
+#VAL Minturn JE, Evans AE, Villablanca JG, et al. (2011) Phase I trial of lestaurtinib for children with refractory neuroblastoma: a new
+UE! approaches to neuroblastoma therapy consortium study. Cancer Chemother Pharmacol 88(4):1057-65
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 13 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+APPENDIX
+REFERENCES
+#VAL Morris DG, Feng X, DiFrancesco LM, et al. (2013) REO-001: A phase I trial of percutaneous intralesional administration of
+UE!
+reovirus type 3 dearing (Reolysin®) in patients with advanced solid tumors. Invest New Drugs 1(3):696-706
+#VAL Nakano H, Yamamoto F, Neville C, et al. (1984) Isolation of transforming sequences of two human lung carcinomas: structural
+UE!
+and functional analysis of the activated c-K-ras oncogenes. Proc Natl Acad Sci USA 81(1):71-5
+#VAL Nichols KE, Malkin D, Garber JE, et al. (2001) Germ-line p53 mutations predispose to a wide spectrum of early-onset cancers.
+UE!
+Cancer Epidemiol Biomarkers Prev 10(2):83-7
+#VAL Oshima M, Okano K, Muraki S, et al. (2013) Immunohistochemically detected expression of 3 major genes (CDKN2A/p16, TP53,
+UE!
+and SMAD4/DPC4) strongly predicts survival in patients with resectable pancreatic cancer. Ann Surg 258(2):336-46
+#VAL Pao W, Wang TY, Riely GJ, et al. (2005) KRAS mutations and primary resistance of lung adenocarcinomas to gefitinib or
+UE!
+erlotinib. PLoS Med 2(1):e17
+#VAL Prior IA, Lewis PD, Mattos C (2012) A comprehensive survey of Ras mutations in cancer. Cancer Res 72(10):2457-67
+UE!
+#VAL Privé GG, Milburn MV, Tong L, et al. (1992) X-ray crystal structures of transforming p21 ras mutants suggest a transition-state
+UE!
+stabilization mechanism for GTP hydrolysis. Proc Natl Acad Sci USA :3649-53
+#VAL Pylayeva-Gupta Y, Grabocka E, Bar-Sagi D (2011) RAS oncogenes: weaving a tumorigenic web. Nat Rev Cancer 11(11):761-74
+UE!
+#VAL Rachakonda PS, Bauer AS, Xie H, et al. (2013) Somatic mutations in exocrine pancreatic tumors: association with patient
+UE!
+survival. PLoS ONE 8(4) :e60870
+#VAL Scheffzek K, Ahmadian MR, Kabsch W, et al. (1997) The Ras-RasGAP complex: structural basis for GTPase activation and its
+UE!
+loss in oncogenic Ras mutants. Science 277(5324):333-8
+#VAL Schutte M (1999) DPC4/SMAD4 gene alterations in human cancer, and their functional implications. Ann Oncol 10 Suppl 4:56-9
+UE!
+#VAL Singh P, Srinivasan R, Wig JD (2012) SMAD4 genetic alterations predict a worse prognosis in patients with pancreatic ductal
+UE!
+adenocarcinoma. Pancreas 41(4) 541-6
+#VAL Smith G, Bounds R, Wolf H, et al. (2010) Activating K-Ras mutations outwith 'hotspot' codons in sporadic colorectal tumours -
+UE!
+implications for personalised cancer medicine. Br J Cancer 102(4):693-703
+#VAL Sorrell AD, Espenschied CR, Culver JO, et al. (2013) Tumor protein p53 (TP53) testing and Li-Fraumeni syndrome : current
+UE!
+status of clinical applications and future directions. Mol Diagn Ther 17(1):31-47
+#VAL
+Stephens RM, Loeb DM, Copeland TD, et al. (1994) Trk receptors use redundant signal transduction pathways involving SHC
+UE!
+and PLC-gamma 1 to mediate NGF responses. Neuron 12(3):691-705
+#VAL Strong JE, Coffey MC, Tang D, et al. (1998) The molecular basis of viral oncolysis: usurpation of the Ras signaling pathway by
+UE!
+reovirus. EMBO J 17(12):3351-62
+#VAL Tacconelli A, Farina AR, Cappabianca L, et al. (2004) TrkA alternative splicing: a regulated tumor-promoting switch in human
+UE!
+neuroblastoma. Cancer Cell 6(4) :347-60
+#VAL Tascilar M, Skinner HG, Rosty C, et al. (2001) The SMAD4 protein and prognosis of pancreatic ductal adenocarcinoma. Clin
+UE!
+Cancer Res 7(12):4115-21
+#VAL Tolcher AW, Bendell JC, Papadopoulos KP, et al. (2014) A Phase IB Trial of the Oral MEK Inhibitor Trametinib (GSK1120212) in
+UE! Combination With Everolimus in Patients With Advanced Solid Tumors. Ann Oncol ePub Oct 2014
+#VAL Tyner JW, Erickson H, Deininger MW, et al. (2009) High-throughput sequencing screen reveals novel, transforming RAS
+UE!
+mutations in myeloid leukemia patients. Blood 113(8):1749-55
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 14 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+APPENDIX
+REFERENCES
+#VAL Vaishnavi A, Capelletti M, Le AT, et al. (2013) Oncogenic and drug-sensitive NTRK1 rearrangements in lung cancer. Nat Med
+UE!
+19(11) 1469-72
+#VAL Vidal L, Pandha HS, Yap TA, et al. (2008) A phase I study of intravenous oncolytic reovirus type 3 Dearing in patients with
+UE!
+advanced cancer. Clin Cancer Res 14(21):7127-37
+#VAL
+Winter JM, Tang LH, Klimstra DS, et al. (2013) Failure patterns in resected pancreas adenocarcinoma: lack of predicted benefit to
+UE!
+SMAD4 expression. Ann Surg 258(2):331-5
+#VAL Wooten MW, Seibenhener ML, Mamidipudi V, et al. (2001) The atypical protein kinase C-interacting protein p62 is a scaffold for
+UE!
+NF-kappaB activation by nerve growth factor. J Biol Chem 276(11):7709-12
+#VAL Yeh JJ, Routh ED, Rubinas T, et al. (2009) KRAS/BRAF mutation status and ERK1/2 activation as biomarkers for MEK1/2
+UE!
+inhibitor therapy in colorectal cancer. Mol Cancer Ther 8(4):834-43
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 15 of 16
+Tumor Type
+Patient Name
+Report Date
+Pancreas ductal
+FOUNDATIONONE
+Not Given
+11 March 2015
+adenocarcinoma
+APPENDIX
+ABOUT FOUNDATIONONE
+FoundationOne FoundationOne was developed and its performance characteristics determined by Foundation Medicine, Inc.
+(Foundation Medicine). FoundationOne has not been cleared or approved by the United States Food and Drug Administration
+(FDA). The FDA has determined that such clearance or approval is not necessary. FoundationOne may be used for clinical
+purposes and should not be regarded as purely investigational or for research only. Foundation Medicine's clinical reference
+laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA) as qualified to perform high-
+complexity clinical testing.
+Diagnostic Significance: FoundationOn identifies alterations to select cancer-associated genes or portions of genes
+(biomarkers). In some cases, the Test Report also highlights selected negative test results regarding biomarkers of clinical
+significance.
+Qualified Alteration Calls (Equivocal and Subclonal): An alteration denoted as "amplification - equivocal" implies that the
+FoundationOne assay data provide some, but not unambiguous, evidence that the copy number of a gene exceeds the threshold for
+identifying copy number amplification. The threshold used in FoundationOne for identifying a copy number amplification is five (5)
+for ERBB2 and six (6) for all other genes. Conversely, an alteration denoted as "loss - equivocal" implies that the FoundationOne
+assay data provide some, but not unambiguous, evidence for homozygous deletion of the gene in question. An alteration denoted
+as "subclonal" is one that the FoundationOne analytical methodology has identified as being present in <10% of the assayed tumor
+DNA.
+The Report incorporates analyses of peer-reviewed studies and other publicly available information identified by Foundation
+Medicine; these analyses and information may include associations between a molecular alteration (or lack of alteration) and one or
+more drugs with potential clinical benefit (or potential lack of clinical benefit), including drug candidates that are being studied in
+clinical research.
+NOTE: A finding of biomarker alteration does not necessarily indicate pharmacologic effectiveness (or lack thereof) of any drug or
+treatment regimen; a finding of no biomarker alteration does not necessarily indicate lack of pharmacologic effectiveness (or
+effectiveness) of any drug or treatment regimen.
+Alterations and Drugs Not Presented in Ranked Order: In this Report, neither any biomarker alteration, nor any drug associated
+with potential clinical benefit (or potential lack of clinical benefit), are ranked in order of potential or predicted efficacy.
+Level of Evidence Not Provided: Drugs with potential clinical benefit (or potential lack of clinical benefit) are not evaluated for
+source or level of published evidence.
+No Guarantee of Clinical Benefit: This Report makes no promises or guarantees that a particular drug will be effective in the
+treatment of disease in any patient. This Report also makes no promises or guarantees that a drug with potential lack of clinical
+benefit will in fact provide no clinical benefit.
+No Guarantee of Reimbursement: Foundation Medicine makes no promises or guarantees that a healthcare provider, insurer or
+other third party payor, whether private or governmental, will reimburse a patient for the cost of FoundationOne.
+Treatment Decisions are Responsibility of Physician: Drugs referenced in this Report may not be suitable for a particular
+patient. The selection of any, all or none of the drugs associated with potential clinical benefit (or potential lack of clinical benefit)
+resides entirely within the discretion of the treating physician. Indeed, the information in this Report must be considered in
+conjunction with all other relevant information regarding a particular patient, before the patient's treating physician recommends a
+course of treatment.
+Decisions on patient care and treatment must be based on the independent medical judgment of the treating physician, taking into
+consideration all applicable information concerning the patient's condition, such as patient and family history, physical examinations,
+information from other diagnostic tests, and patient preferences, in accordance with the standard of care in a given community. A
+treating physician's decisions should not be based on a single test, such as this Test, or the information contained in this Report.
+Certain sample or variant characteristics may result in reduced sensitivity. These include: sub clonal alterations in heterogeneous
+samples, low sample quality or with homozygous losses of <3 exons; and deletions and insertions >40bp, or in repetitive/high
+homology sequences. FoundationOne is performed using DNA derived from tumor, and as such germline events may not be
+reported. The following targets typically have low coverage resulting in a reduction in sensitivity: SDHD exon 6 and TP53 exon 1.
+FoundationOne complies with all European Union (EU) requirements of the IVD Directive 98/79EC. As such, the
+FoundationOne Assay has been registered for CE mark by our EU Authorized Representative, Qarad b.v.b.a, Cipalstraat 3,
+CE
+2440 Geel, Belgium.
+For more comprehensive information please log on to the Interactive Cancer Explorer TM
+To set up your Interactive Cancer Explorer account, contact your sales representative or call (888) 988-3639.
+Electronically Signed by I CLIA Number: 22D2027531 I 11 March 2015
+Foundation Medicine, Inc., 150 2nd Street, 1st Floor, Cambridge, MA 02141 1.888.988.3639
+page 16 of 16

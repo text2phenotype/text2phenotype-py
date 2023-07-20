@@ -1,0 +1,238 @@
+{
+  "Demographic": [
+    {
+      "text": "Stevens",
+      "range": [
+        20,
+        27
+      ],
+      "score": 0.936,
+      "label": "pat_last"
+    },
+    {
+      "text": "John",
+      "range": [
+        29,
+        33
+      ],
+      "score": 0.78,
+      "label": "pat_first"
+    },
+    {
+      "text": "03/19/1968",
+      "range": [
+        36,
+        46
+      ],
+      "score": 0.937,
+      "label": "dob"
+    },
+    {
+      "text": "ViSolve",
+      "range": [
+        73,
+        80
+      ],
+      "score": 0.017,
+      "label": "facility_name"
+    },
+    {
+      "text": "Clinic",
+      "range": [
+        81,
+        87
+      ],
+      "score": 0.032,
+      "label": "facility_name"
+    },
+    {
+      "text": "000-000-0000",
+      "range": [
+        88,
+        100
+      ],
+      "score": 0.719,
+      "label": "dr_phone"
+    },
+    {
+      "text": "ViSolve",
+      "range": [
+        101,
+        108
+      ],
+      "score": 0.252,
+      "label": "facility_name"
+    },
+    {
+      "text": "Clinic",
+      "range": [
+        109,
+        115
+      ],
+      "score": 0.414,
+      "label": "facility_name"
+    },
+    {
+      "text": "000-000-0000",
+      "range": [
+        116,
+        128
+      ],
+      "score": 0.374,
+      "label": "dr_phone"
+    },
+    {
+      "text": "John",
+      "range": [
+        129,
+        133
+      ],
+      "score": 0.604,
+      "label": "pat_first"
+    },
+    {
+      "text": "Stevens",
+      "range": [
+        134,
+        141
+      ],
+      "score": 0.591,
+      "label": "pat_last"
+    },
+    {
+      "text": "John",
+      "range": [
+        195,
+        199
+      ],
+      "score": 0.857,
+      "label": "pat_first"
+    },
+    {
+      "text": "Stevens",
+      "range": [
+        200,
+        207
+      ],
+      "score": 0.9,
+      "label": "pat_last"
+    },
+    {
+      "text": "External",
+      "range": [
+        208,
+        216
+      ],
+      "score": 0.189,
+      "label": "pat_last"
+    },
+    {
+      "text": "235-21-0677",
+      "range": [
+        221,
+        232
+      ],
+      "score": 0.966,
+      "label": "ssn"
+    },
+    {
+      "text": "1968-03-19",
+      "range": [
+        238,
+        248
+      ],
+      "score": 0.999,
+      "label": "dob"
+    },
+    {
+      "text": "Male",
+      "range": [
+        254,
+        258
+      ],
+      "score": 0.942,
+      "label": "sex"
+    },
+    {
+      "text": "49-year-old",
+      "range": [
+        1443,
+        1454
+      ],
+      "score": 0.996,
+      "label": "pat_age"
+    },
+    {
+      "text": "man",
+      "range": [
+        1455,
+        1458
+      ],
+      "score": 0.868,
+      "label": "sex"
+    },
+    {
+      "text": "man",
+      "range": [
+        2236,
+        2239
+      ],
+      "score": 0.165,
+      "label": "sex"
+    },
+    {
+      "text": "X",
+      "range": [
+        4491,
+        4492
+      ],
+      "score": 0.004,
+      "label": "dr_last"
+    },
+    {
+      "text": "Administrator",
+      "range": [
+        5319,
+        5332
+      ],
+      "score": 0.362,
+      "label": "dr_first"
+    },
+    {
+      "text": "Administrator",
+      "range": [
+        5333,
+        5346
+      ],
+      "score": 0.131,
+      "label": "dr_last"
+    },
+    {
+      "text": "ViSolve",
+      "range": [
+        5357,
+        5364
+      ],
+      "score": 0.021,
+      "label": "facility_name"
+    },
+    {
+      "text": "49-year-old",
+      "range": [
+        5397,
+        5408
+      ],
+      "score": 0.998,
+      "label": "pat_age"
+    },
+    {
+      "text": "man",
+      "range": [
+        5409,
+        5412
+      ],
+      "score": 0.896,
+      "label": "sex"
+    }
+  ]
+}
